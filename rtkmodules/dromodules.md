@@ -15,7 +15,7 @@ The Tiny RTK module is the smallest RTK module available. Able to act as a base 
 The Tiny RTK module features:
 
 * 1 MicroUSB connector
-* 2 JST-GH connectors
+* 2 JST-GH 6 pin connectors
 * 1 SMA Antenna connector
 * 1 EXTINT interrupt input pin
 
@@ -32,7 +32,7 @@ The XL RTK module, with its built-in (passive) antenna patch, is able to act as 
 The XL RTK module features:
 
 * 1 MicroUSB connector
-* 2 JST-GH connectors
+* 2 JST-GH 6 pins connectors
 * 7 through-hole connectors
 
 
@@ -41,29 +41,25 @@ The XL RTK module features:
 
 [IMAGE BASE]
 
-The XXL RTK module is made to provide the most reliable base module possible. Featuring a Tallysman TW3742 active antenna, it is the best module to provide your system with an accurate and powerful base module. It has integrated rechargable batteries so it can be used as stand alone module without an external power supply, and a built-in jack connector to recharge these batteries. Meant to be used as a base module, it can be easily put onto a tripod in order to raise it up, have a stable base and allow easy transportation on the field.
+The XXL RTK module is made to provide the most reliable base module possible. Featuring a Tallysman TW3742 active antenna, it is the best module to provide your system with an accurate and powerful base module. It has integrated rechargable batteries so it can be used as stand alone module without an external power supply, and a built-in jack connector to recharge these batteries. Meant to be used as a base module, it can be easily put onto a tripod in order to raise it up, have a stable base and allow clean transportation on the field.
 
 #### _Input / Outputs_
 
+The XXL RTK module features:
 
-
-
-
-
-
-
-
-
-
-
+* 1 MicroUSB connector
+* 1 JST-GH 6 pin connector
+* 1 Jack connector
 
 
 
 ### Module Sirius RTK
 
+_To be done..._
+
 #### _Input / Outputs_
 
-
+_To be done..._
 
 
 
