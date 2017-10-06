@@ -1,4 +1,4 @@
-## Modules characteristics
+## Modules specifications
 
 _To be done..._
 

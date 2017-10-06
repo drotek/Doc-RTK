@@ -6,4 +6,10 @@
   * [NEO-M8P Chip features](rtkmodules/neom8p.md)
   * [Drotek modules introduction](rtkmodules/dromodules.md)
   * [Comparative table](rtkmodules/table.md)
-
+* [The Base](base.md)
+  * [Chosing a base](base/chose.md)
+  * [Configuring the base](base/configure.md)
+* [The Rover](rover.md)
+  * [Chosing the rover](rover/chose.md)
+  * [Configuring the rover](rover/configure.md)
+* [The Telemetry system](telemetry.md)
