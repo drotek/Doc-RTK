@@ -5,7 +5,7 @@ Drotek sells four different RTK modules that each have their own characteristics
 ### Module Tiny RTK
 
 <p align="center">
-  <img src="./images/tiny3D?raw=true" alt="Tiny 3D"/>
+  <img src="./images/tiny3D.png?raw=true" alt="Tiny 3D"/>
 </p>
 
 The Tiny RTK module is the smallest RTK module available. Able to act as a base or rover, this lightweight module (approx. 5 gramms) is plug-&-play and will only require the user to plug an antenna to it, and a telemetry system to allow it to communicate with the second module. An External Interuption pin is available so users can use the module very efficiently in order to have accurate timestamping. It's USB connector will allow you to configure it easily through the U-Center software.
