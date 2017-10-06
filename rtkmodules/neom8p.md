@@ -6,7 +6,8 @@
 * Complete and versatile solution due to base and rover variants.
 * World‑leading GNSS positioning technology.
 
-![Illustration NEOM8P](./images/ubloxm8pschema.png)
+
+![Illustration NEOM8P](./images/m8pchip.png)
  
 
 ## Features:
