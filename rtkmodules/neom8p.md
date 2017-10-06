@@ -30,4 +30,5 @@
 * USB V2.0 full speed port.
 * SMA connector for active GPS (Tiny and XXL versions only).
 * I2C connector (XL version only).
+* EXTINT input for timestamping with NEO-M8P (Tiny version only).
 * Protocols: NMEA, UBX binary, RTCM version 3.x.
