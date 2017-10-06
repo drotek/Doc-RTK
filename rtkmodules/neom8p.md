@@ -7,7 +7,7 @@
 * World‑leading GNSS positioning technology.
 
 
-                           ![Illustration NEOM8P](./images/m8pchip.png)
+![Illustration NEOM8P](./images/m8pchip.png)
  
 
 ## Features:
