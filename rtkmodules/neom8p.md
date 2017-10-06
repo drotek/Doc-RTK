@@ -14,7 +14,6 @@
 
 ## Features:
 
-* u-blox NEO-M8P.
 * Plug and play module.
 * Receiver: 72-channel GPS L1 , GLONASS L1, BeiDou B1, GALILEO E1.
 * Nav. update rate: up to 8 Hz.
@@ -29,7 +28,7 @@
 
 * UART serial port (JST-GH connectors).
 * USB V2.0 full speed port.
-* SMA connector for active GPS (Tiny and XXL version).
-* I2C connector (only for XL version).
-* EXTINT input from NEO-M8P.
+* SMA connector for active GPS (Tiny and XXL versions only).
+* I2C connector (XL version only).
+* EXTINT input from NEO-M8P (Tiny version).
 * Protocols: NMEA, UBX binary, RTCM version 3.x.
