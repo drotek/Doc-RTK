@@ -30,5 +30,4 @@
 * USB V2.0 full speed port.
 * SMA connector for active GPS (Tiny and XXL versions only).
 * I2C connector (XL version only).
-* EXTINT input from NEO-M8P (Tiny version).
 * Protocols: NMEA, UBX binary, RTCM version 3.x.
