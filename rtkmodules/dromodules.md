@@ -25,7 +25,7 @@ The Tiny RTK module features:
 
 [IMAGE XL]
 
-The XL RTK module, with its built-in (passive) antenna patch, is able to act as a rover or base, even though the base mode is not recommended because of the size of the antenna patch. You can select the role of your module very easily with a switch built onto the board. Plug-&-play, this module only requires the user to plug the telemetry equipment in order to be used. It's USB connector will allow you to configure it easily through the U-Center software. Also, the integrated compass will offer your vehicle a more accurate positioning and make your heading sensing more efficient (with the module being used as rover on your vehicle). The board has 7 through-hole connectors where you can solder pin header, which make the module very modular.
+The XL RTK module, with its built-in (passive) antenna patch, is able to act as a rover or base, even though the base mode is not recommended because of the size of the antenna patch. You can select the role of your module very easily with a switch built onto the board. Plug-&-play, this module only requires the user to plug the telemetry equipment in order to be used. It's USB connector will allow you to configure it easily through the U-Center software. Also, the integrated compass will offer your vehicle a more accurate positioning and make your heading sensing more efficient (with the module being used as rover on your vehicle). It's I2C port will also allow you to add various I2C compatible devices to your system. The board has 7 through-hole connectors where you can solder pin header, which make the module very modular.
 
 #### _Input / Outputs_
 
