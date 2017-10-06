@@ -7,7 +7,9 @@
 * World‑leading GNSS positioning technology.
 
 
-![Illustration NEOM8P](./images/m8pchip.png)
+<p align="center">
+  <img src="./images/m8pchip.png?raw=true" alt="M8P Ublox chip"/>
+</p>
  
 
 ## Features:
