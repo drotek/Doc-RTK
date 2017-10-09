@@ -13,7 +13,7 @@ The role of the base is as important as the rover's, as the two modules will com
 Even though the chip featured on all of Drotek's RTK modules is the same, the **XXL RTK** module is **designed specifically** for the base role and can't be beaten in this application.
 
 
-####_Overview_
+###_Overview_
 
 #####XXL RTK
 
@@ -22,6 +22,8 @@ Even though the chip featured on all of Drotek's RTK modules is the same, the **
 </p>
 
 The key features for the base application of the XXL RTK module are it's [Tallysman TW3740](http://www.tallysman.com/index.php/gnss/products/antennas-gpsbeidougalileoglonass/tw3740-tw3742/) **active** antenna, a pair of **rechargeable batteries** included in the case that allow the module to be autonomous and **independant of external power sources**, and a **screw hole** underneath the case to allow it's user to mount it on a tripod and make sure the module is stable and not moving. It's weight because of the antenna and the batteries would easily prevent you from using it as rover, for one would not want to add weight onto his vehicle.
+
+
 
 
 
@@ -37,6 +39,8 @@ The ability to use any antenna you want with the Tiny RTK module allows the user
 
 
 
+
+
 #####XL RTK
 
 <p align="center">
@@ -44,6 +48,8 @@ The ability to use any antenna you want with the Tiny RTK module allows the user
 </p>
 
 The built-in passive patch antenna will provide you with a ready to use board, preventing you from having to find and buy an antenna to use with the module. 
+
+
 
 
 
