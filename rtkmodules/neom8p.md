@@ -9,7 +9,7 @@
 <p align="center">
   <img src="./images/m8pchip.png?raw=true" alt="M8P Ublox chip"/>
 </p>
- 
+
 
 ## Features:
 
@@ -20,7 +20,7 @@
 * Power consumption: ~25 mA.
 * Power supply: 5V (Tiny and XL version), 12V (XXL version).
 * Chip size: 12.2 x 16.0 x 2.4 mm, 1.6 g.
- 
+
 
 ## Interfaces:
 
