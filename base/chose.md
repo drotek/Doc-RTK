@@ -15,30 +15,45 @@ Even though the chip featured on all of Drotek's RTK modules is the same, the **
 
 ####_Overview_
 
+#####XXL RTK
 
 <p align="center">
   <img src="./images/xxl3D.png?raw=true" alt="XXL Base RTK"/>
 </p>
-
 
 The key features for the base application of the XXL RTK module are it's [Tallysman TW3740](http://www.tallysman.com/index.php/gnss/products/antennas-gpsbeidougalileoglonass/tw3740-tw3742/) **active** antenna, a pair of **rechargeable batteries** included in the case that allow the module to be autonomous and **independant of external power sources**, and a **screw hole** underneath the case to allow it's user to mount it on a tripod and make sure the module is stable and not moving. It's weight because of the antenna and the batteries would easily prevent you from using it as rover, for one would not want to add weight onto his vehicle.
 
 
 
 
+#####Tiny RTK
+
 <p align="center">
   <img src="./images/tiny3D.png?raw=true" alt="Tiny RTK"/>
 </p>
 
-
-The ability to use any antenna you want with the Tiny RTK module allows the user to adapt the module to it's use-case and take care of setting up the antenna and the board separately, only worrying for the cables disposition.
-
+The ability to use any antenna you want with the Tiny RTK module allows the user to adapt the module to it's use-case and take care of setting up the antenna and the board separately. Using the right kind of antenna that's necessary to your application will allow the user to adapt the module to his needs.
 
 
+
+
+#####XL RTK
 
 <p align="center">
   <img src="./images/xl3D.png?raw=true" alt="XL RTK"/>
 </p>
 
+The built-in passive patch antenna will provide you with a ready to use board, preventing you from having to find and buy an antenna to use with the module. 
+
+
+
+
+#####Sirius RTK
+
+<p align="center">
+  <img src="./images/sirius3D.png?raw=true" alt="Sirius RTK"/>
+</p>
+
+_To be done..._
 
 
