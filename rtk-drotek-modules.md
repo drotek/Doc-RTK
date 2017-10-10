@@ -13,7 +13,4 @@ In this section, you will find informations on the Ublox© M8P chip features and
 
 
 
-<p align="center">
-  <img src="./images/warnm8p.png?raw=true" alt="Warn M8P Drotek"/>
-</p>
 
