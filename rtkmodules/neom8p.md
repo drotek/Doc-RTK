@@ -22,6 +22,7 @@
 * Chip size: 12.2 x 16.0 x 2.4 mm, 1.6 g.
 
 
+
 ## Interfaces:
 
 * UART serial port (JST-GH connectors).
