@@ -3,7 +3,7 @@
 ###Tiny RTK
 
 Specs:
-* Size : 23.5 * 32 * 9.5 mm.
+* Size : 23.5 x 32 x 9.5 mm.
 * Weight : 3 g.
 
 #### _Wiring_
@@ -12,14 +12,22 @@ Specs:
   <img src="./images/tinyw.png?raw=true" alt="Wiring tiny"/>
 </p>
 
-| Picture Wire N° | Corresponding pinout |
+|A|
+| Wire N° | Corresponding pinout |
 |---------|----------------------|
-| 1       | GROUND               |
-| 2       | _NC_                 |
-| 3       | _NC_                 |
-| 4       | RX                   |
-| 5       | TX                   |
-| 6       | 5VOUT                |
+| A1      | GROUND               |
+| A2      | _NC_                 |
+| A3      | _NC_                 |
+| A4      | RX                   |
+| A5      | TX                   |
+| A6      | 5V OUT               |
+|         |                      |
+| B1      | GROUND               |
+| B2      | _NC_                 |
+| B3      | _NC_                 |
+| B4      | TX                   |
+| B5      | RX                   |
+| B6      | 5V IN                |
 
 ###XL RTK
 
