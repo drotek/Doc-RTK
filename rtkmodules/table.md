@@ -41,8 +41,9 @@ Specs:
 
 ###XXL RTK
 Specs:
-* Size :  
-* Weight : 
+* Size : 
+* Weight : 363 g.
+* Threaded hole size : 1/4" / 20 mm
 
 ###Sirius RTK
 Specs:
