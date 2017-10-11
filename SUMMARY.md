@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [What is RTK?](whatsrtk.md)
 * [RTK Drotek Modules](rtk-drotek-modules.md)
-  * [NEO-M8P Chip features](rtkmodules/neom8p.md)
+  * [NEO-M8P chip features](rtkmodules/neom8p.md)
   * [Drotek modules introduction](rtkmodules/dromodules.md)
   * [Modules specs and comparative](rtkmodules/table.md)
   * [Simplified schematics](rtkmodules/schematics.md)
@@ -20,3 +20,4 @@
 * [Pixhawk 3 PRO integration](autopilot.md)
   * [Chosing modules for your Pixhawk 3 PRO](autopilot/chose.md)
   * [Software configuration](autopilot/soft.md)
+
