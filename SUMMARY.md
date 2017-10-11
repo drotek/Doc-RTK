@@ -5,7 +5,7 @@
 * [RTK Drotek Modules](rtk-drotek-modules.md)
   * [NEO-M8P Chip features](rtkmodules/neom8p.md)
   * [Drotek modules introduction](rtkmodules/dromodules.md)
-  * [Comparative table](rtkmodules/table.md)
+  * [Modules specs and comparative](rtkmodules/table.md)
   * [Simplified schematics](rtkmodules/overview)
 * [The Base](base.md)
   * [Chosing a base module](base/chose.md)
