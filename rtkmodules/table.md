@@ -12,8 +12,7 @@ Specs:
   <img src="./images/tinyw.png?raw=true" alt="Wiring tiny"/>
 </p>
 
-|A|
-|--------------------------------|
+
 | Wire N° | Corresponding pinout |
 |---------|----------------------|
 | A1      | GROUND               |
