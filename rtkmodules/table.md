@@ -16,15 +16,15 @@ Specs:
 | Wire N° | Corresponding pinout |
 |---------|----------------------|
 | A1      | GROUND               |
-| A2      | _NC_                 |
-| A3      | _NC_                 |
+| A2      | _**NC**_                 |
+| A3      | _**NC**_                 |
 | A4      | RX                   |
 | A5      | TX                   |
 | A6      | 5V OUT               |
 |         |                      |
 | B1      | GROUND               |
-| B2      | _NC_                 |
-| B3      | _NC_                 |
+| B2      | _**NC**_                 |
+| B3      | _**NC**_                 |
 | B4      | TX                   |
 | B5      | RX                   |
 | B6      | 5V IN                |
