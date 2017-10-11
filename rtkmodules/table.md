@@ -32,8 +32,15 @@ Specs:
 ###XL RTK
 
 Specs:
-* Size : 
-* Weight : 
+* Size : 50 x 50 x 10 mm
+* Weight : 23 g.
+
+<p align="center">
+  <img src="./images/xlw.png?raw=true" alt="Wiring XL"/>
+</p>
+
+
+
 
 ###XXL RTK
 
