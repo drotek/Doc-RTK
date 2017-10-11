@@ -1,7 +1,6 @@
 ##Modules mechanical specifications and wiring
 
 ###Tiny RTK
-
 Specs:
 * Size : 23.5 x 32 x 9.5 mm.
 * Weight : 3 g.
@@ -11,7 +10,6 @@ Specs:
 <p align="center">
   <img src="./images/tinyw.png?raw=true" alt="Wiring tiny"/>
 </p>
-
 
 | Wire N° | Corresponding pinout |
 |---------|----------------------|
@@ -30,7 +28,6 @@ Specs:
 | B6      | 5V IN                |
 
 ###XL RTK
-
 Specs:
 * Size : 50 x 50 x 10 mm
 * Weight : 23 g.
@@ -43,24 +40,14 @@ Specs:
 
 
 ###XXL RTK
-
 Specs:
-* Size : 
+* Size :  
 * Weight : 
 
 ###Sirius RTK
-
 Specs:
 * Size : 
 * Weight : 
-
-
-
-
-
-
-
-
 
 ## Modules comparative
 
