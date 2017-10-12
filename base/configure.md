@@ -20,7 +20,9 @@ After connecting, you should be able to enter the Configuration view from the to
   <img src="./images/conf/2.png?raw=true" alt="Conf picture"/>
 </p>
 
-In this menu, scroll down on the left panel to find the _MSG (Messages)_ menu. There, open the slide down menu and pick the RTCM1005 messages. After that, check both UART1 and USB checkboxes and click on _Send_.
+
+
+In this menu, scroll down on the left panel to find the _MSG (Messages)_ menu. There, open the slide down menu and pick the RTCM1005 messages. After that, check both UART1 and USB checkboxes and click on the _Send_ button.
 
 <p align="center">
   <img src="./images/conf/3.png?raw=true" alt="Conf picture"/>
@@ -29,6 +31,10 @@ In this menu, scroll down on the left panel to find the _MSG (Messages)_ menu. T
 <p align="center">
   <img src="./images/conf/22.png?raw=true" alt="Conf picture"/>
 </p>
+
+You must repeat these steps for the _RTCM1077_, _RTCM1087_ and _RTCM1127_ messages (respectively GPS, GLONASS and BEIDOU raw data) without omitting to hit the _Send_ button each time, or your changes won't be applied. Checking both UART1 and USB checkboxes will allow the chip to send the messages either from USB or UART1.
+
+
 
 
 
