@@ -36,7 +36,29 @@ Specs:
   <img src="./images/xlw.png?raw=true" alt="Wiring XL"/>
 </p>
 
-
+| Wire N° | Corresponding pinout |
+|---------|----------------------|
+| A1      | 5V OUT               |
+| A2      | TX                   |
+| A3      | RX TEL               |
+| A4      | _**NC**_             |
+| A5      | _**NC**_             |
+| A6      | GROUND               |
+|         |                      |
+| B1      | 5V IN                |
+| B2      | RX ROV               |
+| B3      | TX                   |
+| B4      | SCL                  |
+| B5      | SDA                  |
+| B6      | GROUND               |
+|         |                      |
+| C1      | EXT INT              |
+| C2      | TX                   |
+| C3      | RX                   |
+| C4      | SCL                  |
+| C5      | SDA                  |
+| C6      | GROUND               |
+| C7      | 5V IN                |
 
 
 ###XXL RTK
