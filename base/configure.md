@@ -10,4 +10,40 @@ In order to configure the base, you need:
 
 First of all, install the UCenter software on your computer, as well as the Mission Planner software that you will need later on. When done, you can connect your base module to your computer. Open the UCenter software after that, and connect it to your base module using the button in the upper-left corner.
 
+<p align="center">
+  <img src="./images/conf/1.png?raw=true" alt="Conf picture"/>
+</p>
+
+After connecting, you should be able to enter the Configuration view from the top hotbar.
+
+<p align="center">
+  <img src="./images/conf/2.png?raw=true" alt="Conf picture"/>
+</p>
+
+In this menu, scroll down on the left panel to find the _MSG (Messages)_ menu. There, open the slide down menu and pick the RTCM1005 messages. After that, check both UART1 and USB checkboxes and click on _Send_.
+
+<p align="center">
+  <img src="./images/conf/3.png?raw=true" alt="Conf picture"/>
+</p>
+
+<p align="center">
+  <img src="./images/conf/22.png?raw=true" alt="Conf picture"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
