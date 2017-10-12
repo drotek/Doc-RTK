@@ -66,6 +66,23 @@ Specs:
 * Size : 
 * Weight : 363 g.
 * Threaded hole size : 1/4" / 20 mm
+* Jack connector : **12V**
+
+Power supply : **USB** or **batteries**
+Batteries charging : Jack connector **only**
+
+<p align="center">
+  <img src="./images/basew.png?raw=true" alt="Wiring XXL"/>
+</p>
+
+| Wire N° | Corresponding pinout |
+|---------|----------------------|
+| A1      | GROUND               |
+| A2      | _**NC**_             |
+| A3      | _**NC**_             |
+| A4      | TX                   |
+| A5      | RX                   |
+| A6      | 5V OUT               |
 
 ###Sirius RTK
 Specs:
