@@ -32,7 +32,25 @@ In this menu, scroll down on the left panel to find the _MSG (Messages)_ menu. T
   <img src="./images/conf/22.png?raw=true" alt="Conf picture"/>
 </p>
 
-You must repeat these steps for the _RTCM1077_, _RTCM1087_ and _RTCM1127_ messages (respectively GPS, GLONASS and BEIDOU raw data) without omitting to hit the _Send_ button each time, or your changes won't be applied. Checking both UART1 and USB checkboxes will allow the chip to send the messages either from USB or UART1.
+You must repeat these steps for the _RTCM1077_, _RTCM1087_ and _RTCM1127_ messages (respectively GPS, GLONASS and BEIDOU raw data) without omitting to hit the _Send_ button each time, or your changes won't be applied. Checking both UART1 and USB checkboxes will allow the chip to send the messages either from USB or UART1, depending on the configuration.
+
+Next, move to the _TMODE3 (Time Mode 3)_ section on the left panel. You will be able in this section to chose whether you'll use **Survey-in** (if you don't have an exactly known position for your base)or **Fixed** (if you know the exact position of your base, either in _ECEF_ or _Lat/Lon/Alt_ format) mode. 
+
+<p align="center">
+  <img src="./images/conf/4.png?raw=true" alt="Conf picture"/>
+</p>
+
+In Survey-in mode, your base will determine its position by itself. You will have to set a minimum surveying time and a minimum accuracy. The surveying will last _at least_ for the duration you set, and _won't stop_ until it has reached the accuracy you selected. 
+
+After setting up these values, you can get to the SVIN menu to check the informations gathered by the base, as its position, time, surveying time, and other useful data.
+
+[SVIN SCREEN]
+
+In Fixed mode, you will be providing the base module its known position, 
+
+<p align="center">
+  <img src="./images/conf/5.png?raw=true" alt="Conf picture"/>
+</p>
 
 
 
