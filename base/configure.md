@@ -32,7 +32,7 @@ In this menu, scroll down on the left panel to find the _MSG (Messages)_ menu. T
   <img src="./images/conf/22.png?raw=true" alt="Conf picture"/>
 </p>
 
-You must repeat these steps for the _RTCM1077_, _RTCM1087_ and _RTCM1127_ messages (respectively GPS, GLONASS and BEIDOU raw data) without omitting to hit the _Send_ button each time, or your changes won't be applied. Checking both UART1 and USB checkboxes will allow the chip to send the messages either from USB or UART1, depending on the configuration.
+You must repeat these steps for the _RTCM1077_, _RTCM1087_ and _RTCM1127_ messages (respectively GPS, GLONASS and BEIDOU raw data) without omitting to hit the _Send_ button each time, or your changes won't be applied. Checking both UART1 and USB checkboxes will allow the chip to send the messages either from USB or UART1, depending on your system setup.
 
 Next, move to the _TMODE3 (Time Mode 3)_ section on the left panel. You will be able in this section to chose whether you'll use **Survey-in** (if you don't have an exactly known position for your base)or **Fixed** (if you know the exact position of your base, either in _ECEF_ or _Lat/Lon/Alt_ format) mode. 
 
@@ -40,19 +40,35 @@ Next, move to the _TMODE3 (Time Mode 3)_ section on the left panel. You will be 
   <img src="./images/conf/4.png?raw=true" alt="Conf picture"/>
 </p>
 
-In Survey-in mode, your base will determine its position by itself. You will have to set a minimum surveying time and a minimum accuracy. The surveying will last _at least_ for the duration you set, and _won't stop_ until it has reached the accuracy you selected. 
+In **Survey-in mode**, your base will determine its position by itself. You will have to set a minimum surveying time and a minimum accuracy. The surveying will last _at least_ for the duration you set, and _won't stop_ until it has reached the accuracy you selected. Don't forget to click the _Send_ button after setting up the surveying.
 
-After setting up these values, you can get to the SVIN menu to check the informations gathered by the base, as its position, time, surveying time, and other useful data.
+After setting up these values, you can get to the _SVIN_ menu to check the informations gathered by the base, as its position, time, surveying time, and other useful data. To do so, open the Messages view from the top hotbar, and scroll down to the _NAV (Navigation)_section, then look for the SVIN message. 
 
-[SVIN SCREEN]
+<p align="center">
+  <img src="./images/conf/svin.png?raw=true" alt="Conf picture"/>
+</p>
 
-In Fixed mode, you will be providing the base module its known position, 
+<p align="center">
+  <img src="./images/conf/svinm.png?raw=true" alt="Conf picture"/>
+</p>
+
+In **Fixed mode**, the surveying is not done, and you have to enter the position of the base yourself, whether it be in _ECEF_ or _Lat/Lon/Alt_ format. Keep in mind that having the most accurate positioning for your base will provide best results in order to compute the position of the rover module.
 
 <p align="center">
   <img src="./images/conf/5.png?raw=true" alt="Conf picture"/>
 </p>
 
+At this point, your base is almost set up. You have two options then: **(A)** Encapsulating raw data in your telemetry link, _or_ **(B)** Using a dedicated link.
 
+###(A) Encapsulating raw data in your telemtry link.
+
+This setup will only require you to have your base and control station (computer) connected through USB. To set this up, you will first need to save the whole configuration you've done, by getting into the _CFG (Configuration)_ menu on the left panel, selecting all four memories on the right, and clicking _Send_.
+
+<p align="center">
+  <img src="./images/conf/a1.png?raw=true" alt="Conf picture"/>
+</p>
+
+Now that you're configuration is stored in your chip, open the Mission Planner software to inject differential data in the telemetry stream. To do this with Mission Planner, on the main window of the software, press **CTRL + F** to open the _temp_ menu. Here, click on **Inject GPS**, select the COM port of your base module, keep the default baudrate, and click on **Connect**.
 
 
 
