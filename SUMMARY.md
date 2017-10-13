@@ -10,7 +10,7 @@
 * [The Base](base.md)
   * [Chosing a base module](base/chose.md)
   * [Configuring the base manually](base/configure.md)
-  * [Auto conf \(QGControl / MP\)](base/auto-conf-qgcontrol-mp.md)
+  * [Auto conf (QGControl / MP)](base/autoconf.md)
 * [The Rover](rover.md)
   * [Chosing a rover module](rover/chose.md)
   * [Configuring the rover](rover/configure.md)
