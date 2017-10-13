@@ -34,10 +34,10 @@ In this menu, scroll down on the left panel to find the _MSG (Messages)_ menu. T
 
 You must repeat these steps for the _RTCM1077_, _RTCM1087_ and _RTCM1127_ messages (respectively GPS, GLONASS and BEIDOU raw data) without omitting to hit the _Send_ button each time, or your changes won't be applied. Checking both UART1 and USB checkboxes will allow the chip to send the messages either from USB or UART1, depending on your system setup.
 
-Next, move to the _TMODE3 (Time Mode 3)_ section on the left panel. You will be able in this section to chose whether you'll use **Survey-in** (if you don't have an exactly known position for your base)or **Fixed** (if you know the exact position of your base, either in _ECEF_ or _Lat/Lon/Alt_ format) mode. 
+Next, move to the _TMODE3 (Time Mode 3)_ section on the left panel. You will be able in this section to chose whether you'll use **Survey-in** (if you don't have an exactly known position for your base) or **Fixed** (if you know the exact position of your base, either in _ECEF_ or _Lat/Lon/Alt_ format) mode. 
 
 <p align="center">
-  <img src="./images/conf/4.png?raw=true" alt="Conf picture"/>
+  <img src="./images/conf/cfgs.png?raw=true" alt="Conf picture"/>
 </p>
 
 In **Survey-in mode**, your base will determine its position by itself. You will have to set a minimum surveying time and a minimum accuracy. The surveying will last _at least_ for the duration you set, and _won't stop_ until it has reached the accuracy you selected. Don't forget to click the _Send_ button after setting up the surveying.
@@ -60,7 +60,7 @@ In **Fixed mode**, the surveying is not done, and you have to enter the position
 
 At this point, your base is almost set up. You have two options then: **(A)** Encapsulating raw data in your telemetry link, _or_ **(B)** Using a dedicated link.
 
-###(A) Encapsulating raw data in your telemtry link.
+###(A) Encapsulating raw data in your telemetry link.
 
 This setup will only require you to have your base and control station (computer) connected through USB. To set this up, you will first need to save the whole configuration you've done, by getting into the _CFG (Configuration)_ menu on the left panel, selecting all four memories on the right, and clicking _Send_.
 
@@ -70,7 +70,11 @@ This setup will only require you to have your base and control station (computer
 
 Now that you're configuration is stored in your chip, open the Mission Planner software to inject differential data in the telemetry stream. To do this with Mission Planner, on the main window of the software, press **CTRL + F** to open the _temp_ menu. Here, click on **Inject GPS**, select the COM port of your base module, keep the default baudrate, and click on **Connect**.
 
+<p align="center">
+  <img src="./images/conf/mp.png?raw=true" alt="Conf picture"/>
+</p>
 
+###(B) Using a dedicated link.
 
 
 
