@@ -9,7 +9,8 @@
   * [Simplified schematics](rtkmodules/schematics.md)
 * [The Base](base.md)
   * [Chosing a base module](base/chose.md)
-  * [Configuring the base](base/configure.md)
+  * [Configuring the base manually](base/configure.md)
+  * [Auto conf \(QGControl / MP\)](base/auto-conf-qgcontrol-mp.md)
 * [The Rover](rover.md)
   * [Chosing a rover module](rover/chose.md)
   * [Configuring the rover](rover/configure.md)
@@ -20,6 +21,4 @@
 * [Pixhawk 3 PRO integration](autopilot.md)
   * [Chosing modules for your Pixhawk 3 PRO](autopilot/chose.md)
   * [Software configuration](autopilot/soft.md)
-
-
 
