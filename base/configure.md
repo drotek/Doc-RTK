@@ -1,7 +1,7 @@
 #Configuration of the Base!
 
 In order to configure the base, you need: 
-* 1 Computer
+* 1 Computer, used as ground control station
 * 1 Micro USB cable
 * **Latest** version of UCenter Software (available [here](https://www.u-blox.com/en/product/u-center-windows))
 * **Latest** version of Mission Planner Software (available [here](http://ardupilot.org/planner/docs/common-install-mission-planner.html))
@@ -58,23 +58,18 @@ In **Fixed mode**, the surveying is not done, and you have to enter the position
   <img src="./images/conf/5.png?raw=true" alt="Conf picture"/>
 </p>
 
-At this point, your base is almost set up. You have two options then: **(A)** Encapsulating raw data in your telemetry link, _or_ **(B)** Using a dedicated link.
-
-###(A) Encapsulating raw data in your telemetry link.
-
-This setup will only require you to have your base and control station (computer) connected through USB. To set this up, you will first need to save the whole configuration you've done, by getting into the _CFG (Configuration)_ menu on the left panel, selecting all four memories on the right, and clicking _Send_.
+At this point, your base is almost set up. You have to encapsulate raw data in your telemetry link then. This will only require you to have your base and control station (computer) connected through USB. To set this up, you will first need to save the whole configuration you've done, by getting into the _CFG (Configuration)_ menu on the left panel, selecting all four memories on the right, and clicking _Send_.
 
 <p align="center">
   <img src="./images/conf/a1.png?raw=true" alt="Conf picture"/>
 </p>
 
-Now that you're configuration is stored in your chip, open the Mission Planner software to inject differential data in the telemetry stream. To do this with Mission Planner, on the main window of the software, press **CTRL + F** to open the _temp_ menu. Here, click on **Inject GPS**, select the COM port of your base module, keep the default baudrate, and click on **Connect**.
+Now that your configuration is stored in your chip, open the Mission Planner software to inject differential data in the telemetry stream. To do this with Mission Planner, on the main window of the software, press **CTRL + F** to open the _temp_ menu. Here, click on **Inject GPS**, select the COM port of your base module, keep the default baudrate, and click on **Connect**.
 
 <p align="center">
   <img src="./images/conf/mp.png?raw=true" alt="Conf picture"/>
 </p>
 
-###(B) Using a dedicated link.
 
 
 
