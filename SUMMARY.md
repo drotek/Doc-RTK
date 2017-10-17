@@ -14,7 +14,7 @@
 * [The Rover](rover.md)
   * [Chosing a rover module](rover/chose.md)
   * [Auto conf (QGControl / MP)](rover/autoconf.md)
-  * [Configuring the rover](rover/configure.md)
+  * [Configuring the rover manually](rover/configure.md)
 * [The Telemetry system](telemetry.md)
   * [Chosing a telemetry system](telemetry/chose.md)
   * [Simplified schematics](telemetry/schema.md)
