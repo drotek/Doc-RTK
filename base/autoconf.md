@@ -1,7 +1,22 @@
 #Autoconfiguration with QGroundControl / Mission Planner
 
-The RTK modules can easily be configured automatically using the QGControl or Mission Planner softwares, which will set up your module as you want without having to go deep into the configuration processes for the Ublox chip.
+The RTK modules can easily be configured automatically using the QGroundControl or Mission Planner softwares, which will set up your module as you want without having to go deep into the configuration processes for the Ublox chip.
 
-## Mission Planner
+## QGround Control
 
-USing MP, you only have to 
+In order to configure the base, you need: 
+* 1 Computer, used as ground control station
+* 1 Micro USB cable
+* **Latest** version of QGroundControl Software (available [here](https://docs.qgroundcontrol.com/en/getting_started/download_and_install.html))
+
+_Note that PX4 advise to use the MAVLink 2 protocol within your telemetry link in order to use the channel efficiently. It should be the default parameter, but if it isn't, you can follow [these](https://docs.px4.io/en/advanced_features/rtk-gps.html#mavlink2) quick steps._
+
+Begin with plugging your base module through USB to the computer with QGroundControl installed and open. The module should be recognized automatically. Don't forget to place the base module where it has a clear view of the sky, doesn't have too many buildings around, and can hold in place as well as possible.
+
+The software will initiate the **Survey-in** procedure with default parameters.
+
+
+
+
+
+
