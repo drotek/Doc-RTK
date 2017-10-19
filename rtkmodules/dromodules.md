@@ -68,13 +68,12 @@ The XXL RTK module features:
   <img src="./images/sirius3D.png?raw=true" alt="Sirius 3D"/>
 </p>
 
-_To be done..._
+The Sirius RTK module is built to provide a reliable rover module for your vehicle. With a built-in **active antenna patch**, it is capable of interacting with the Galileo satellites network, along with the common GPS, Beidou and Glonass networks, which will provide more accuracy for it's positionning. The form factor of the Sirius module is simple, thus easily fitting most setup designs as well as easy to integrate into your vehicle. It's 6 pin JST-GH connector makes it plug-and-play with the Pixhawk PRO 3 autopilot.
+
+**The unicity of this connector makes it impossible for this module to be used as a base module.**
 
 #### _Input / Outputs_
 
-_To be done..._
+The Sirius RTK module features: 
 
-
-
-
-
+* 1 JST-GH 6 pins connector
