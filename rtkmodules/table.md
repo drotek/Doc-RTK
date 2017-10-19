@@ -1,5 +1,5 @@
 ##Modules mechanical specifications and wiring
-
+---
 ###Tiny RTK
 Specs:
 * Size (_Lxlxh_) : 23.5 x 32 x 9.5 mm.
@@ -27,10 +27,14 @@ Specs:
 | B5      | RX                   |
 | B6      | 5V IN                |
 
+---
+
 ###XL RTK
 Specs:
 * Size (_Lxlxh_) : 50 x 50 x 10 mm
 * Weight : 23 g.
+
+#### _Wiring_
 
 <p align="center">
   <img src="./images/xlw.png?raw=true" alt="Wiring XL"/>
@@ -60,6 +64,7 @@ Specs:
 | C6      | GROUND               |
 | C7      | 5V IN                |
 
+---
 
 ###XXL RTK
 Specs:
@@ -69,6 +74,8 @@ Specs:
 * Jack connector : **12V**
 * Power supply : **USB** or **batteries**
 * Batteries charging : Jack connector **only**
+
+#### _Wiring_
 
 <p align="center">
   <img src="./images/basew.png?raw=true" alt="Wiring XXL"/>
@@ -83,10 +90,14 @@ Specs:
 | A5      | RX                   |
 | A6      | 5V OUT               |
 
+---
+
 ###Sirius RTK
 Specs:
 * Size (_Øxh_) : 60 x 16 mm
 * Weight : 42 g.
+
+#### _Wiring_
 
 <p align="center">
   <img src="./images/siriusw.png?raw=true" alt="Wiring Sirius"/>
