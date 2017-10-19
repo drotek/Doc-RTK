@@ -1,10 +1,11 @@
 #Manual configuration of the base module
 
+You can use the Ucenter software in order to configure precisely the behavior of the M8P chip so that it will achieve exactly what you want.
+
 In order to configure the base, you need: 
 * 1 Computer, used as ground control station
 * 1 Micro USB cable
 * **Latest** version of UCenter Software (available [here](https://www.u-blox.com/en/product/u-center-windows))
-* **Latest** version of Mission Planner Software (available [here](http://ardupilot.org/planner/docs/common-install-mission-planner.html))
 
 ###Configuring the Ublox chip
 
@@ -20,7 +21,7 @@ After connecting, you should be able to enter the Configuration view from the to
   <img src="./images/conf/2.png?raw=true" alt="Conf picture"/>
 </p>
 
-
+_Note : After any modification made in the Configuration panel, always remeber to hit the _Send_ button at the bottom of the configuration view panel, or your modifications won't be stored!_
 
 In this menu, scroll down on the left panel to find the _MSG (Messages)_ menu. There, open the slide down menu and pick the RTCM1005 messages. After that, check both UART1 and USB checkboxes and click on the _Send_ button.
 
@@ -64,13 +65,6 @@ At this point, your base is almost set up. You have to encapsulate raw data in y
   <img src="./images/conf/a1.png?raw=true" alt="Conf picture"/>
 </p>
 
-Now that your configuration is stored in your chip, open the Mission Planner software to inject differential data in the telemetry stream. To do this with Mission Planner, on the main window of the software, press **CTRL + F** to open the _temp_ menu. Here, click on **Inject GPS**, select the COM port of your base module, keep the default baudrate, and click on **Connect**.
-
-<p align="center">
-  <img src="./images/conf/mp.png?raw=true" alt="Conf picture"/>
-</p>
-
-This way, the base will stream the data to the rover through the MAVLink protocol directly. Your base is then ready to be used!
 
 
 
