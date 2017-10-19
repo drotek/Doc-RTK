@@ -14,6 +14,8 @@ In this book, you will find what RTK stands for, what is possible with it, what 
 
 _Author : Lacomme Valentin_
 
+Suggestions? Mistakes? Do not hesitate to [email me](mailto:valentin.lacomme@drotek.com)!
+
 
 
 
