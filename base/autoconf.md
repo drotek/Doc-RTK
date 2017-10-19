@@ -26,7 +26,7 @@ You can set the values for the surveying time and a minimum accuracy in the gene
 </p>
 
 <p align="center">
-  <img src="./images/qgset.png?raw=true" alt="QG RTK settings"/>
+  <img src="./images/qgset.jpg?raw=true" alt="QG RTK settings"/>
 </p>
 
 Once the survey-in procedure is complete, the satellites icon in the top hotbar will turn white, and the base module will start sending data to the rover module through the telemetry link. The RTK will be active and ready to use!

@@ -1,4 +1,4 @@
-#Configuration of the Base!
+#Manual configuration of the base module
 
 In order to configure the base, you need: 
 * 1 Computer, used as ground control station
@@ -70,7 +70,7 @@ Now that your configuration is stored in your chip, open the Mission Planner sof
   <img src="./images/conf/mp.png?raw=true" alt="Conf picture"/>
 </p>
 
-
+This way, the base will stream the data to the rover through the MAVLink protocol directly. Your base is then ready to be used!
 
 
 
