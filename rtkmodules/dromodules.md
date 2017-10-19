@@ -59,6 +59,7 @@ The XXL RTK module features:
 * 1 MicroUSB connector
 * 1 JST-GH 6 pin connector
 * 1 Jack connector
+* 1 active [Tallysman TW3740](http://www.tallysman.com/index.php/gnss/products/antennas-gpsbeidougalileoglonass/tw3740-tw3742/) antenna
 
 
 
@@ -77,3 +78,4 @@ The Sirius RTK module is built to provide a reliable rover module for your vehic
 The Sirius RTK module features: 
 
 * 1 JST-GH 6 pins connector
+* 1 active [GBA-154 C](http://www.cirocomm.com/category-Embeded-Active-2-2.html) antenna

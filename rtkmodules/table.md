@@ -2,7 +2,7 @@
 
 ###Tiny RTK
 Specs:
-* Size : 23.5 x 32 x 9.5 mm.
+* Size (_Lxlxh_) : 23.5 x 32 x 9.5 mm.
 * Weight : 3 g.
 
 #### _Wiring_
@@ -29,7 +29,7 @@ Specs:
 
 ###XL RTK
 Specs:
-* Size : 50 x 50 x 10 mm
+* Size (_Lxlxh_) : 50 x 50 x 10 mm
 * Weight : 23 g.
 
 <p align="center">
@@ -63,7 +63,7 @@ Specs:
 
 ###XXL RTK
 Specs:
-* Size : 
+* Size (_Lxlxh_) : 106 x 106 x 85±2 mm
 * Weight : 363 g.
 * Threaded hole size : 1/4" / 20 mm
 * Jack connector : **12V**
@@ -85,9 +85,36 @@ Specs:
 
 ###Sirius RTK
 Specs:
-* Size : 
-* Weight : 
+* Size (_Øxh_) : 60 x 16 mm
+* Weight : 42 g.
 
-## Modules comparative
+<p align="center">
+  <img src="./images/siriusw.png?raw=true" alt="Wiring Sirius"/>
+</p>
 
-_To be done..._
+| Wire N° | Corresponding pinout |
+|---------|----------------------|
+| A1      | 5V IN                |
+| A2      | TX                   |
+| A3      | RX                   |
+| A4      | SCL                  |
+| A5      | SDA                  |
+| A6      | GROUND               |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
