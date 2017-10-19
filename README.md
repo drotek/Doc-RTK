@@ -12,7 +12,9 @@ In this book, you will find what RTK stands for, what is possible with it, what 
 -----
 
 
-_Author : V. Lacomme_
+_Author : Lacomme Valentin_
+
+
 
 
 

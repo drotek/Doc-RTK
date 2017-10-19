@@ -12,7 +12,7 @@ In this section, you will find informations on the Ublox M8P chip features and a
 </p>
 
 
------
+
 
 
 
