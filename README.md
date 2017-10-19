@@ -16,7 +16,4 @@ _Author : Lacomme Valentin_
 
 Suggestions? Mistakes? Do not hesitate to [email me](mailto:valentin.lacomme@drotek.com)!
 
-
-
-
-
+_Book still in work..._
