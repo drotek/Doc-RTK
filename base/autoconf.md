@@ -13,7 +13,28 @@ _Note that PX4 advise to use the MAVLink 2 protocol within your telemetry link i
 
 Begin with plugging your base module through USB to the computer with QGroundControl installed and open. The module should be recognized automatically. Don't forget to place the base module where it has a clear view of the sky, doesn't have too many buildings around, and can hold in place as well as possible.
 
-The software will initiate the **Survey-in** procedure with default parameters.
+The software will initiate the **Survey-in** procedure with default parameters. You should see the monitoring box next to the top hotbar, giving details on the **surveying time**, **current accuracy** and **satellites** the base is connected with.
+
+<p align="center">
+  <img src="./images/qgsvin.png?raw=true" alt="QG Survey dialog box"/>
+</p>
+
+You can set the values for the surveying time and a minimum accuracy in the general settings menu of the QGroundControl software, it's button located on the top left corner of the main window.
+
+<p align="center">
+  <img src="./images/qgbutton.png?raw=true" alt="QG General settings button"/>
+</p>
+
+<p align="center">
+  <img src="./images/qgset.png?raw=true" alt="QG RTK settings"/>
+</p>
+
+Once the survey-in procedure is complete, the satellites icon in the top hotbar will turn white, and the base module will start sending data to the rover module through the telemetry link. The RTK will be active and ready to use!
+
+##Mission Planner
+
+
+
 
 
 
