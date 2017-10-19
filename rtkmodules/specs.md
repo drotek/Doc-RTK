@@ -27,6 +27,10 @@ Specs:
 | B5      | RX                   |
 | B6      | 5V IN                |
 
+
+-----
+
+
 ###XL RTK
 Specs:
 * Size (_Lxlxh_) : 50 x 50 x 10 mm
@@ -61,6 +65,9 @@ Specs:
 | C7      | 5V IN                |
 
 
+-----
+
+
 ###XXL RTK
 Specs:
 * Size (_Lxlxh_) : 106 x 106 x 85±2 mm
@@ -82,6 +89,10 @@ Specs:
 | A4      | TX                   |
 | A5      | RX                   |
 | A6      | 5V OUT               |
+
+
+-----
+
 
 ###Sirius RTK
 Specs:

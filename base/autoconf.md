@@ -2,6 +2,10 @@
 
 The RTK modules can easily be configured automatically using the QGroundControl or Mission Planner softwares, which will set up your module as you want without having to go deep into the configuration processes for the Ublox chip.
 
+
+-----
+
+
 ## QGround Control
 
 In order to configure the base, you need: 
@@ -30,6 +34,10 @@ You can set the values for the surveying time and a minimum accuracy in the gene
 </p>
 
 Once the survey-in procedure is complete, the satellites icon in the top hotbar will turn white, and the base module will start sending data to the rover module (if it is set up) through the telemetry link. The RTK will be active and ready to use as soon as the rover module will have been set up!
+
+
+-----
+
 
 ##Mission Planner
 

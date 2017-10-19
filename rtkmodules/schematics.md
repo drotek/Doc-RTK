@@ -8,6 +8,10 @@
   <img src="./images/schemaTiny2.png?raw=true" alt="Wiring tiny"/>
 </p>
 
+
+-----
+
+
 ##XL RTK Module
 
 Switch position : 
@@ -21,6 +25,10 @@ Switch position :
 <p align="center">
   <img src="./images/schemaXL2.png?raw=true" alt="Wiring XL"/>
 </p>
+
+
+-----
+
 
 ##Base RTK Module
 

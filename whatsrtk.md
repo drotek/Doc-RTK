@@ -13,6 +13,10 @@ Ionosphere propagation is the most important effect. The ionization of the propa
 
 Another important effect that cannot be modeled is **multipath**. It corresponds to wave reflection on obstacles near the receiver \(trees, buildings…\) that retard or duplicate signals. It can be strongly attenuated with a good hardware.
 
+
+-----
+
+
 **RTK **requires consequently two GNSS receivers, a “base” station, generally motionless and whose position is perfectly known, and a “rover” mobile receiver. The base sends correction data to the rover \(raw data\) so that the rover can compute the double-difference RTK algorithm. This means that pseudoranges and carrier phases from the base will be “substracted” \(it is a bit more complicated though\) from those from the rover. **RTKLIB **is used to perform those calculations, that can lead to a centimeter-level accuracy.
 
 ![Illustration RTK](./images/schemadroneRTK.jpg)

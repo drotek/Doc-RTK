@@ -6,13 +6,17 @@ Drotek sells four different RTK modules that each have their own characteristics
   <img src="./images/warnm8p.png?raw=true" alt="Warn M8P Drotek"/>
 </p>
 
+
+-----
+
+
 ### Module Tiny RTK
 
 <p align="center">
   <img src="./images/tiny3D.png?raw=true" alt="Tiny 3D"/>
 </p>
 
-The Tiny RTK module is the smallest RTK module available. Able to act as a base or rover, this **lightweight** module (approx. 5 gramms) is plug-&-play and will only require the user to plug an antenna to it, and a telemetry system to allow it to communicate with the second module. An External Interuption pin is available so users can use the module very efficiently in order to have accurate **timestamping**. It's USB connector will allow you to configure it easily through the U-Center software.
+The Tiny RTK module is the smallest RTK module available. Able to act as a base or rover, this **lightweight** module (approx. 5 gramms) is plug-&-play and will only require the user to plug an antenna to it, and a telemetry system to allow it to communicate with the second module _(optional)_. An External Interuption pin is available so users can use the module very efficiently in order to have accurate **timestamping**. It's USB connector will allow you to configure it easily through the U-Center software.
 
 #### _Input / Outputs_
 
@@ -23,6 +27,8 @@ The Tiny RTK module features:
 * 1 SMA Antenna connector
 * 1 EXTINT interrupt input pin
 
+
+-----
 
 
 ### Module XL RTK
@@ -43,6 +49,8 @@ The XL RTK module features:
 * 7 through-hole connectors
 
 
+-----
+
 
 ### Module XXL RTK
 
@@ -61,6 +69,8 @@ The XXL RTK module features:
 * 1 Jack connector
 * 1 active [Tallysman TW3740](http://www.tallysman.com/index.php/gnss/products/antennas-gpsbeidougalileoglonass/tw3740-tw3742/) antenna
 
+
+-----
 
 
 ### Module Sirius RTK
