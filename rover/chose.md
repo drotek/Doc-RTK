@@ -10,10 +10,21 @@ To ensure that you have an efficient flying vehicle, you'll need to pick the mos
 
 The different modules available from Drotek are all capable of acting as a rover, but integrating a rover module on your machine requires to take care of the **space constraint**, the **weight** of the module and it's parts, as well as the **power consumption** which will be impacted by the module you pick.
 
-Even though the chip featured on all of Drotek's RTK modules is the same, the **XL RTK** and **Tiny RTK** modules were designed in order to be the best option for someone looking for an efficient rover module.
+Even though the chip featured on all of Drotek's RTK modules is the same, the **Sirius** and **XL RTK** modules were designed in order to be the best option for someone looking for an efficient rover module.
 
 
 ###_Overview_
+
+#####Sirius RTK
+
+<p align="center">
+  <img src="./images/sirius3D.png?raw=true" alt="Sirius RTK"/>
+</p>
+
+Built to perform specifically with the **Pixhawk 3 PRO** autopilot, the **Sirius RTK** module offers the best performances for an accurate and plug-and-play experience. It's compact form-factor makes it easy to install on any machine, and it's single cable, delivering power, serial link and I2C bus connectivity, will free a lot of space for any additional device or sensor you need on your machine and allow a clean setup. The active [GBA-154 C](http://www.cirocomm.com/category-Embeded-Active-2-2.html) antenna located inside the case and the reliability of the Ublox M8P chip can offer incredible performances, and the magnetometer present on the board, _Honeywell_'s [HMC5983](https://aerocontent.honeywell.com/aero/common/documents/myaerospacecatalog-documents/Defense_Brochures-documents/HMC5983_3_Axis_Compass_IC.pdf) or _ST_'s [LIS3MDL](http://www.st.com/en/mems-and-sensors/lis3mdl.html), will provide one more sensor to have the safest vehicle possible. 
+
+
+
 
 #####XL RTK
 
@@ -40,13 +51,6 @@ Allowing the user to use it with an antenna of his choice, the **Tiny RTK** modu
 
 
 
-#####Sirius RTK
-
-<p align="center">
-  <img src="./images/sirius3D.png?raw=true" alt="Sirius RTK"/>
-</p>
-
-_To be done..._
 
 
 
@@ -59,7 +63,7 @@ _To be done..._
   <img src="./images/xxl3D.png?raw=true" alt="XXL RTK"/>
 </p>
 
-The XXL RTK module should only be used for vehicles that can afford to gain a larger amount of weight than the other modules. It's built-in batteries and large antenna make up for a serious weight gain, and the large case and form-factor of the antenna make it hard to install on a small or lightweight machine. 
+The **XXL RTK** module should only be used for vehicles that can afford to gain a larger amount of weight than the other modules. It's built-in batteries and large antenna make up for a serious weight gain, and the large case and form-factor of the antenna make it hard to install on a small or lightweight machine.
 
 
 

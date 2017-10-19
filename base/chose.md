@@ -59,6 +59,6 @@ The built-in passive patch antenna will provide you with a ready to use board, p
   <img src="./images/sirius3D.png?raw=true" alt="Sirius RTK"/>
 </p>
 
-_To be done..._
+The Sirius RTK module **can not be used as a base module**, as it's single 6 pins JST-GH connector is only meant to be connected to an autopilot, which would be configured with RTK data encapsulated into the MAVLink protocol. It's pinout makes it directly compatible with the Pixhawk 3 PRO autopilot. 
 
 
