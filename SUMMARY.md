@@ -7,7 +7,7 @@
   * [Drotek modules introduction](rtkmodules/dromodules.md)
   * [Modules specifications and wiring](rtkmodules/specs.md)
   * [Simplified schematics](rtkmodules/schematics.md)
-  * [Comparative table](rtkmodules/comparatif.md)
+  * [Comparative table](rtkmodules/overview.md.md)
 * [The Base](base.md)
   * [Chosing a base module](base/chose.md)
   * [Auto conf (QGControl / MP)](base/autoconf.md)
