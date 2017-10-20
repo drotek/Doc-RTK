@@ -35,3 +35,13 @@ Switch position :
 <p align="center">
   <img src="./images/schemaBase.png?raw=true" alt="Wiring Base"/>
 </p>
+
+
+-----
+
+
+##Sirius RTK Module
+
+<p align="center">
+  <img src="./images/schemasirius.png?raw=true" alt="Wiring Sirius"/>
+</p>
