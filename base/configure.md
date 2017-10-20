@@ -1,5 +1,7 @@
 #Manual configuration of the base module
 
+
+
 You can use the Ucenter software in order to configure precisely the behavior of the M8P chip so that it will achieve exactly what you want.
 
 In order to configure the base, you need: 
@@ -15,7 +17,7 @@ In order to configure the base, you need:
 
 
 
-First of all, install the UCenter software on your computer, as well as the Mission Planner software that you will need later on. When done, you can connect your base module to your computer. Open the UCenter software after that, and connect it to your base module using the button in the upper-left corner.
+First of all, install the UCenter software on your computer. When done, you can connect your base module to your computer. Open the UCenter software after that, and connect it to your base module using the button in the upper-left corner.
 
 
 
@@ -35,7 +37,7 @@ After connecting, you should be able to enter the Configuration view from the to
 
 
 
-_Note : After any modification made in the Configuration panel, always remeber to hit the _Send_ button at the bottom of the configuration view panel, or your modifications won't be stored!_
+_Note : After any modification made in the Configuration panel, always remember to hit the Send button at the bottom of the configuration view panel, or your modifications won't be stored!_
 
 
 
