@@ -18,7 +18,7 @@
   * [Configuring the rover manually](rover/configure.md)
 * [The Telemetry system](telemetry.md)
   * [Chosing a telemetry system](telemetry/chose.md)
-  * [Configuring _Drotek's_ telemetry for RTK](telemetry/config.md)
+  * [Configuring telemetry for RTK](telemetry/config.md)
 * [Pixhawk 3 PRO integration](autopilot.md)
   * [Chosing modules for your Pixhawk 3 PRO](autopilot/chose.md)
   * [Software configuration](autopilot/soft.md)
