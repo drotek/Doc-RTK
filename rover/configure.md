@@ -74,7 +74,7 @@ Modifiying the dynamic filter can also help. You can change it in the _NAV5 (Nav
   <img src="./images/conf/4.png?raw=true" alt="Conf picture"/>
 </p>
 
-After doing this tweak, all that necessary is to save the whole configuration you've done, by getting into the _CFG (Configuration)_ menu on the left panel, selecting all four memories on the right, and clicking _Send_.
+After doing this tweak, all that is necessary is to save the whole configuration you've done, by getting into the _CFG (Configuration)_ menu on the left panel, selecting all four memories on the right, and clicking _Send_.
 
 <p align="center">
   <img src="./images/conf/5.png?raw=true" alt="Conf picture"/>
