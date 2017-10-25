@@ -22,4 +22,5 @@
 * [Pixhawk 3 PRO integration](autopilot.md)
   * [Choosing modules for your Pixhawk 3 PRO](autopilot/chose.md)
   * [Software configuration](autopilot/soft.md)
+* [Frequently Asked Questions](faq.md)
 * [Credits](credits.md)
