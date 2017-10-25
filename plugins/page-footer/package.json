@@ -40,7 +40,7 @@
     "properties": {
       "description": {
         "type": "string",
-        "default": " ",
+        "default": "modified at",
         "title": "Description for your modified motion"
       },
       "signature": {
