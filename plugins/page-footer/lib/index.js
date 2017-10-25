@@ -119,7 +119,7 @@ const pageFooter = module.exports = {
 					}
 
 					if (item === 'copyright') {
-						defaultOption[item] += ' all right reserved, powered by <a href="https://github.com/aleen42" target="_blank">aleen42</a>';
+						defaultOption[item] += 'Power to Innovation ';
 					}
 				}
 			}
@@ -288,7 +288,7 @@ const pageFooter = module.exports = {
 				}
 
 				if (item === 'copyright') {
-					defaultOption[item] += ' all right reserved, powered by <a href="https://github.com/aleen42" target="_blank">aleen42</a>';
+					defaultOption[item] += ' Power to Innovation ';
 				}
 			}
 		} else {
