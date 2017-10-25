@@ -9,6 +9,3 @@ The three RTK modules will offer a user-friendly installation as they are all th
 <p align="center">
   <img src="./images/pix3dside.png?raw=true" alt="Pixhawk 3 PRO autopilot"/>
 </p>
-
------
-
