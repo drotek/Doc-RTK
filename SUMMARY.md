@@ -20,6 +20,6 @@
   * [Chosing a telemetry system](telemetry/chose.md)
   * [Configuring telemetry for RTK](telemetry/config.md)
 * [Pixhawk 3 PRO integration](autopilot.md)
-  * [Chosing modules for your Pixhawk 3 PRO](autopilot/chose.md)
+  * [Choosing modules for your Pixhawk 3 PRO](autopilot/chose.md)
   * [Software configuration](autopilot/soft.md)
-
+* [Credits](credits.md)
