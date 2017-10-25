@@ -83,8 +83,8 @@ const pageFooter = module.exports = {
 			 * @type {Object}
 			 */
 			const defaultOption = {
-				'description': 'modified at',
-				'signature': 'Aleen',
+				'description': ' ',
+				'signature': ' ',
 				'wisdom': 'More than a coder, more than a designer',
 				'format': 'yyyy-MM-dd hh:mm:ss',
 				'copyright': 'Copyright &#169; aleen42',
@@ -259,7 +259,7 @@ const pageFooter = module.exports = {
 		 * @type {Object}
 		 */
 		const defaultOption = {
-			'description': 'modified at',
+			'description': ' ',
 			'signature': 'Aleen',
 			'wisdom': 'More than a coder, more than a designer',
 			'format': 'yyyy-MM-dd hh:mm:ss',
