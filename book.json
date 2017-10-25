@@ -1,9 +1,8 @@
 {
     "plugins": [
-    	"custom-favicon",
-	       ],
-    
+    	"custom-favicon"
+	       ],    
     "pluginsConfig":{
-        "favicon": "favicon.ico",
+        "favicon": "favicon.ico"
     }
 }
