@@ -1,29 +1,9 @@
 {
     "plugins": [
-    "custom-favicon",
-    "page-footer"
+    	"custom-favicon",
 	       ],
     
     "pluginsConfig":{
-
         "favicon": "favicon.ico",
-	
-	"page-footer": {
-			"signature": "Drotek - Valentin Lacomme",
-			"wisdom": "Fast, Innovate, Iterate!",
-			"format": "yyyy-MM-dd hh:mm:ss",
-			"copyright": "( Copyright &#169; footer plugin by aleen42 )",
-			"timeColor": "#666",
-			"copyrightColor": "#666",
-			"utcOffset": "1",
-			"isShowQRCode": false,
-			"baseUri": "https://aleen42.gitbooks.io/personalwiki/content/",
-            "isShowIssues": false,
-			"repo": "aleen42/PersonalWiki",
-			"issueNum": "8",
-			"token": "",
-            "style": "normal"
-		
-	}
     }
 }
