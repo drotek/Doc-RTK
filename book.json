@@ -6,7 +6,7 @@
     
     "pluginsConfig":{
 
-        "favicon": "favicon.ico"
+        "favicon": "favicon.ico",
 	
 	"page-footer": {
 			"signature": "Drotek - Valentin Lacomme",
