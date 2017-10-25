@@ -19,7 +19,7 @@
 			"isShowQRCode": false,
 			"baseUri": " ",
             "isShowIssues": false,
-			"repo": " ",
+			"repo": "aleen42/PersonalWiki",
 			"issueNum": "8",
 			"token": "",
             "style": "normal"
