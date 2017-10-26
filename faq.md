@@ -10,7 +10,7 @@ The RTK technology requires a stationnary receiver to allow exact calculation of
 
 -----
 
-* **Do the XL, Tiny and Sirius have built-in batteries? Do they need an external power supply?**
+* **Do the XL, Tiny and Sirius modules have built-in batteries? Do they need an external power supply?**
 
 The XL RTK module, as well as the Tiny RTK and Sirius RTK modules do **not** have built-in batteries. This means you have to supply power to these boards in order to have them working. You can supply them with power from USB port (excepted for the Sirius RTK module which doesn't have one), for instance with a power bank for smartphones or a computer. The necessary power supply is **5V** so make sure to not oversupply them.
 
