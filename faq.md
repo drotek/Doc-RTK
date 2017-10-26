@@ -24,7 +24,7 @@ The Drotek RTK modules are compatible with most telemetry kits. In fact, they ar
 
 * **Can the RTK modules be used without an autopilot?**
 
-The use of an autopilot is not obligatory, even though some of the modules are built specifically for this purpose. Using an autopilot provides a MAVLink in which can be encapsulated the RTK data, and an automatic process that will configure the modules almost entirely automatically. Using the RTK modules without an autopilot will require you to configure the modules in order to be able to communicate with the telemetry boards correctly. You can find mort on configuring the RTK modules by following [this link](https://valentinipanini.gitbooks.io/doc-rtk/content/base/configure.html) for the base module, and [this link](https://valentinipanini.gitbooks.io/doc-rtk/content/rover/configure.html) for the rover module.
+The use of an autopilot is not obligatory, even though some of the modules are built specifically for this purpose. Using an autopilot provides a MAVLink in which can be encapsulated the RTK data, and an automatic process that will configure the modules almost entirely automatically. Using the RTK modules without an autopilot will require you to configure the modules in order to be able to communicate with the telemetry boards correctly. You can find more on configuring the RTK modules by following [this link](https://valentinipanini.gitbooks.io/doc-rtk/content/base/configure.html) for the base module, and [this link](https://valentinipanini.gitbooks.io/doc-rtk/content/rover/configure.html) for the rover module.
 
 -----
 
