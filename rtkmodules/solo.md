@@ -38,4 +38,11 @@ _Note: The wiring is given for informationnal purpose only, but the 3DR Solo RTK
   <img src="./images/solow.png?raw=true" alt="Wiring Solo RTK"/>
 </p>
 
-
+| Wire N° | Corresponding pinout |
+|---------|----------------------|
+| C1      | GROUND               |
+| C2      | _**NC**_             |
+| C3      | _**NC**_             |
+| C4      | TX                   |
+| C5      | RX                   |
+| C6      | 5V IN                |
