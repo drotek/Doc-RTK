@@ -35,7 +35,7 @@ Specs:
 _Note: The wiring is given for informationnal purpose only, but the 3DR Solo RTK module is meant to be used with the 3DR Solo drone, so you should not need to re-wire it in a normal use-case._
 
 <p align="center">
-  <img src="./images/solow.jpg?raw=true" alt="Wiring Solo RTK"/>
+  <img src="./images/solow.png?raw=true" alt="Wiring Solo RTK"/>
 </p>
 
 
