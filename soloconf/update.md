@@ -16,11 +16,12 @@ Before starting the software, make sure to turn your drone and its controller on
 
 With the software open, to connect to the Solo drone, use these informations:
 
-Protocole SCP
-Nom d’hôte : 10.1.1.10 (Solo's IP adress)
-Nom d’utilisateur : root
-Mot de passe : TjSDBkAu
-Port 22
+* Protocole SCP
+* Nom d’hôte : 10.1.1.10 (Solo's IP adress)
+* Nom d’utilisateur : root
+* Mot de passe : TjSDBkAu
+* Port 22
+
 
 Then click _Connect_ to start the communication.
 
