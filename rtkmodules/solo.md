@@ -20,7 +20,7 @@ The 3DR Solo RTK module features:
 * 1 MicroUSB connector
 * 1 Clik-Mate female connector
 
-[Product page available here](https://drotek.com/shop/fr/home/812-gps-rtk-solo-3dr-neo-m8p.html).
+[Product page available here](https://drotek.com/shop/en/home/812-gps-rtk-solo-3dr-neo-m8p.html).
 
 -----
 
