@@ -74,7 +74,7 @@ Specs:
 * Weight : 363 g.
 * Threaded hole size : 1/4" / 20 mm
 * Jack connector : **12V**
-* Power supply : **USB** or **batteries**
+* Power supply : **USB** or **batteries** or **Jack connector**
 * Batteries charging : Jack connector **only**
 
 <p align="center">
