@@ -10,8 +10,6 @@ In this book, you will find what RTK stands for, what is possible with it, what 
 -----
 
 
-_Author : Lacomme Valentin_
+Book written by Valentin Lacomme. 
 
-Suggestions? Mistakes? Do not hesitate to [email me](mailto:valentin.lacomme@drotek.com)!
-
-_Book still in work..._
+If you have suggestions, if you spotted errors, if you think there are mistakes, or if you think you can help making this book better, feel free to email me!
