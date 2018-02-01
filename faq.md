@@ -30,7 +30,7 @@ The use of an autopilot is not obligatory, even though some of the modules are b
 
 * **What's the most efficient Survey-in time? How long does it take to reach 1 m. accuracy? 50 cm accuracy? 10 cm accuracy?**
 
-There is no best survey-in time, as it's duration will mainly depend on what accuracy you want to reach. This setting can be set up with either Mission Planner or QGroundControl, as well as the UCenter software in case you don't use an autopilot. Keep in mind that having an efficient survey-in will require to have the base set in the most building-free space and a clear sky-view. The time necessary to reach a 1 meter accuracy for the base positioning is approximately 10 minutes. Reaching 50 cm and below accuracy will require a much longer period of time, roughly an hour, or more. 
+There is no best survey-in time, as its duration will mainly depend on what accuracy you want to reach. This setting can be set up with either Mission Planner or QGroundControl, as well as the UCenter software in case you don't use an autopilot. Keep in mind that having an efficient survey-in will require to have the base set in the most building-free space and a clear sky-view. The time necessary to reach a 1 meter accuracy for the base positioning is approximately 10 minutes. Reaching 50 cm and below accuracy will require a much longer period of time, roughly an hour, or more. 
 
 In order to get the most accurate position for your base, you can use known reference locations in order to have an accurate position. You should be able to find such places by looking for your national _geodesy_ institute (i.e. it is the [IGN](http://geodesie.ign.fr/index.php?page=points_geodesiques) for France). For the USA for instance, you should find informations following [this link](https://www.ngs.noaa.gov/).
 
@@ -38,7 +38,7 @@ In order to get the most accurate position for your base, you can use known refe
 
 * **Can multiple rover modules be used with a single base module?**
 
-In order to use multiple rover modules with a single base, you have to choose between using a **special telemetry firmware** that will allow multipoint communication (more infformations can be found [here](http://ardupilot.org/copter/docs/common-telemetry-landingpage.html)), or using the TCP/IP protocol to stream the RTK data from the base module. You can find more informations on the configuring of the Ublox chip and its TCP/IP features by following [this link](https://www.u-blox.com/en/product/neo-m8p-series).
+In order to use multiple rover modules with a single base, you have to choose between using a **special telemetry firmware** that will allow multipoint communication (more informations can be found [here](http://ardupilot.org/copter/docs/common-telemetry-landingpage.html)), or using the TCP/IP protocol to stream the RTK data from the base module. You can find more informations on the configuring of the Ublox chip and its TCP/IP features by following [this link](https://www.u-blox.com/en/product/neo-m8p-series).
 
 -----
 
