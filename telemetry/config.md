@@ -12,7 +12,7 @@ As said above, using an RTK system without an autopilot (without MAVLink then) i
 
 It is important to note that **all baudrates, for the RTK modules as well as both telemetry boards must be the same**. 
 
-To configure your telemetry boards, you will need to download the _3DR Radio Config_ software. You can download it from [this link](http://vps.oborne.me/). It doesn't require you to install it. When downloaded, extract the archive to a location on your PC of your choice, and then start the software by opening the _3DRRadio.exe_ file.
+To configure your telemetry boards, you will need to download the _3DR Radio Config_ software. You can download it from [this link](http://vps.oborne.me/3drradioconfig.zip). It doesn't require you to install it. When downloaded, extract the archive to a location on your PC of your choice, and then start the software by opening the _3DRRadio.exe_ file.
 
 <p align="center">
   <img src="./images/3drintro.png?raw=true" alt="3DR Config Main"/>
