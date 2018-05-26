@@ -106,8 +106,8 @@ Specs:
 | Wire N° | Corresponding pinout |
 |---------|----------------------|
 | A1      | 5V IN                |
-| A2      | TX                   |
-| A3      | RX                   |
+| A2      | RX                   |
+| A3      | TX                   |
 | A4      | SCL                  |
 | A5      | SDA                  |
 | A6      | GROUND               |
