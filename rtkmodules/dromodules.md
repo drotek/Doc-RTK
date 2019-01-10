@@ -27,7 +27,7 @@ The Tiny RTK module features:
 * 1 SMA Antenna connector
 * 1 EXTINT interrupt input pin
 
-[Product page available here](https://drotek.com/shop/en/home/794-tiny-rtk-gps-neo-m8p-2.html).
+[Product page available here](https://store.drotek.com/gps/794-636-tiny-rtk-gps-neo-m8p-2-8944595119827.html#/105-case-without/116-antenna-without).
 
 -----
 
@@ -49,7 +49,7 @@ The XL RTK module features:
 * 2 JST-GH 6 pins connectors
 * 7 through-hole connectors
 
-[Product page available here](https://drotek.com/shop/en/home/792-gps-rtk-xl-rover-neo-m8p.html).
+[Product page available here](https://store.drotek.com/gps/881-xl-rtk-gps-neo-m8p-rover-8944595120625.html).
 
 -----
 
@@ -71,7 +71,7 @@ The XXL RTK module features:
 * 1 Jack connector
 * 1 active [Tallysman TW3740](http://www.tallysman.com/index.php/gnss/products/antennas-gpsbeidougalileoglonass/tw3740-tw3742/) antenna
 
-[Product page available here](https://drotek.com/shop/en/home/818-gps-rtk-xxl-neo-m8p-2.html).
+[Product page available here](https://store.drotek.com/gps/887-xxl-rtk-gps-neo-m8p-2-8944595119797.html).
 
 -----
 
@@ -93,4 +93,6 @@ The Sirius RTK module features:
 * 1 JST-GH 6 pins connector
 * 1 active antenna
 
-[Product available soon...](https://drotek.com/)
+[Product page available here](https://store.drotek.com/gps/864-sirius-rtk-gps-8944595120564.html).
+
+
