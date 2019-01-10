@@ -1,10 +1,6 @@
 # Drotek's RTK modules
 
-Drotek sells four different RTK modules that each have their own characteristics. Depending on the use-case and the general context of application, different modules should be picked in order to achieve the most efficient build.
-
-<p align="center">
-  <img src="./images/warnm8p.png?raw=true" alt="Warn M8P Drotek"/>
-</p>
+Drotek sells several different RTK modules that each have their own characteristics. Depending on the use-case and the general context of application, different modules should be picked in order to achieve the most efficient build.
 
 
 -----
