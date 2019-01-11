@@ -1,4 +1,4 @@
-##Tiny RTK Module
+##Tiny RTK GNSS (M8P)
 
 <p align="center">
   <img src="./images/schemaTiny1.png?raw=true" alt="Wiring tiny"/>
@@ -12,7 +12,7 @@
 -----
 
 
-##XL RTK Module
+##XL RTK GNSS (M8P)
 
 Switch position : 
 * _Base_ use-case : **TELEM**
@@ -30,7 +30,7 @@ Switch position :
 -----
 
 
-##Base RTK Module
+##Sirius RTK GNSS Base (M8P)
 
 <p align="center">
   <img src="./images/schemaBase.png?raw=true" alt="Wiring Base"/>
@@ -40,7 +40,7 @@ Switch position :
 -----
 
 
-##Sirius RTK Module
+##Sirius RTK GNSS Rover (M8P)
 
 <p align="center">
   <img src="./images/schemasirius.png?raw=true" alt="Wiring Sirius"/>
