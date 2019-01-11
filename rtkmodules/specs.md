@@ -1,6 +1,6 @@
 ##Modules mechanical specifications and wiring
 
-###Tiny RTK
+###Tiny RTK GNSS (M8P)
 Specs:
 * Size (_Lxlxh_) : 23.5 x 32 x 9.5 mm.
 * Weight : 3 g.
@@ -31,7 +31,7 @@ Specs:
 -----
 
 
-###XL RTK
+###XL RTK GNSS (M8P)
 Specs:
 * Size (_Lxlxh_) : 50 x 50 x 10 mm
 * Weight : 23 g.
@@ -68,7 +68,7 @@ Specs:
 -----
 
 
-###XXL RTK
+###XXL RTK GNSS (
 Specs:
 * Size (_Lxlxh_) : 106 x 106 x 85±2 mm
 * Weight : 363 g.

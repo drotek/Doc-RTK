@@ -71,7 +71,7 @@ The XL RTK GNSS features:
 -----
 
 
-### XXL RTK GNSS (M8P)
+### Sirius RTK GNSS Base (M8P)
 
 <p align="center">
   <img src="./images/xxl3D.png?raw=true" alt="XXL RTK 3D"/>
@@ -93,7 +93,7 @@ The XXL RTK GNSS features:
 -----
 
 
-### Sirius RTK GNSS (M8P)
+### Sirius RTK GNSS Rover (M8P)
 
 <p align="center">
   <img src="./images/sirius3D.png?raw=true" alt="Sirius 3D"/>
