@@ -8,7 +8,7 @@ Drotek sells several different RTK modules that each have their own characterist
 ### XL RTK GNSS (F9P)
 
 <p align="center">
-  <img src="./images/XLF93D.png?raw=true" alt="XL ZED-F9P 3D"/>
+  <img src="./images/F9-mini.png?raw=true" alt="XL ZED-F9P 3D"/>
 </p>
 
 The XL RTK GNSS is the smallest Multi-band RTK module available. Able to act as a base or rover, this **lightweight** module (approx. 18 grams) is plug-&-play and will only require the user to plug an antenna to it, and a telemetry system to allow it to communicate with the second module _(optional)_. It's USB connector will allow you to configure it easily through the U-Center software.
