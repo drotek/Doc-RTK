@@ -22,7 +22,7 @@ The XL RTK GNSS module features:
 * 1 SMA Antenna connector
 * 2 UART + 1 SPI + 1 I2C
 
-[Product page available here](https://store.drotek.com/en/gps/891-rtk-zed-f9p-gps-8944595424662.html).
+[Product page available here](https://store.drotek.com/gps/891-rtk-zed-f9p-gps-8944595424662.html).
 
 -----
 
