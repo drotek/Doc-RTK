@@ -68,7 +68,7 @@ Specs:
 -----
 
 
-###XXL RTK GNSS (
+###Sirius RTK GNSS Base (M8P)
 Specs:
 * Size (_Lxlxh_) : 106 x 106 x 85±2 mm
 * Weight : 363 g.
@@ -94,7 +94,7 @@ Specs:
 -----
 
 
-###Sirius RTK
+###Sirius RTK GNSS Rover (M8P)
 Specs:
 * Size (_Øxh_) : 60 x 16 mm
 * Weight : 42 g.
