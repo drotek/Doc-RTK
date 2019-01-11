@@ -1,5 +1,40 @@
 ##Modules mechanical specifications and wiring
 
+###XL RTK GNSS (F9P)
+Specs:
+* Size (_Lxlxh_) : 50 x 50 x 13 mm
+* Weight : 18 g.
+
+<p align="center">
+  <img src="./images/xxx.png?raw=true" alt="Wiring XL ZED-F9P"/>
+</p>
+
+| Wire N° | Corresponding pinout |
+|---------|----------------------|
+| A1      | 5V OUT               |
+| A2      | TX                   |
+| A3      | RX TEL               |
+| A4      | _**NC**_             |
+| A5      | _**NC**_             |
+| A6      | GROUND               |
+|         |                      |
+| B1      | 5V IN                |
+| B2      | RX ROV               |
+| B3      | TX                   |
+| B4      | SCL                  |
+| B5      | SDA                  |
+| B6      | GROUND               |
+|         |                      |
+| C1      | EXT INT              |
+| C2      | TX                   |
+| C3      | RX                   |
+| C4      | SCL                  |
+| C5      | SDA                  |
+| C6      | GROUND               |
+| C7      | 5V IN                |
+
+
+-----
 ###Tiny RTK GNSS (M8P)
 Specs:
 * Size (_Lxlxh_) : 23.5 x 32 x 9.5 mm.
