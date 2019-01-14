@@ -13,17 +13,15 @@ The XL RTK GNSS is the smallest Multi-band RTK module available. Able to act as 
 
 #### Features:
 * 1 Micro USB port
-* 3 JST-GH 6pin connectors
 * 1 SMA Antenna connector
+* 3 JST-GH 6pin connectors
 * 2 UART + 1 SPI + 1 I2C
-* Size (Lxlxh) : 50 x 50 x 13 mm
+* Size (Lxlxh): 50 x 50 x 13 mm
 * Weight: 18g
 
 [Product page available here](https://store.drotek.com/gps/891-rtk-zed-f9p-gps-8944595424662.html).
 
 -----
-
-
 ### Tiny RTK GNSS (M8P)
 
 <p align="center">
@@ -33,17 +31,17 @@ The XL RTK GNSS is the smallest Multi-band RTK module available. Able to act as 
 The Tiny RTK GNSS is the smallest RTK module available. Able to act as a base or rover, this **lightweight** module (approx. 5 grams) is plug-&-play and will only require the user to plug an antenna to it, and a telemetry system to allow it to communicate with the second module _(optional)_. An External Interruption pin is available so users can use the module very efficiently in order to have accurate **timestamping**. It's USB connector will allow you to configure it easily through the U-Center software.
 
 #### Features:
-
-* 1 MicroUSB connector
-* 2 JST-GH 6 pin connectors
+* 1 Micro USB port
+* 2 JST-GH 6pin connectors
+* 1 UART
 * 1 SMA Antenna connector
-* 1 EXTINT interrupt input pin
+* EXTINT interrupt input pin
+* Size (Lxlxh): 23.5 x 32 x 9.5 mm
+* Weight: 3g
 
 [Product page available here](https://store.drotek.com/gps/794-636-tiny-rtk-gps-neo-m8p-2-8944595119827.html#/105-case-without/116-antenna-without).
 
 -----
-
-
 ### XL RTK GNSS (M8P)
 
 <p align="center">
@@ -54,10 +52,13 @@ The Tiny RTK GNSS is the smallest RTK module available. Able to act as a base or
 The XL RTK module, with its **built-in** (passive) **antenna patch**, is able to act as a rover or base, even though the base mode is not recommended because of the size of the antenna patch. You can select the role of your module very easily with a switch built onto the board. Plug-&-play, this module only requires the user to plug the telemetry equipment in order to be used. It's USB connector will allow you to configure it easily through the U-Center software. Also, the **integrated compass** will offer your vehicle a more accurate positioning and make your heading sensing more efficient (with the module being used as rover on your vehicle). It's **I2C port** will also allow you to add various I2C compatible devices to your system. The board has 7 through-hole connectors where you can solder pin header, which make the module very modular.
 
 #### Features:
-
-* 1 MicroUSB connector
+* 1 Micro USB port
 * 2 JST-GH 6 pins connectors
 * 7 through-hole connectors
+* 1 UART, 1 I2C
+* LIS3MDL magnetometer
+* Size (Lxlxh): 50 x 50 x 10 mm
+* Weight: 23g
 
 [Product page available here](https://store.drotek.com/gps/881-xl-rtk-gps-neo-m8p-rover-8944595120625.html).
 
