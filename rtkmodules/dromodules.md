@@ -53,7 +53,7 @@ The XL RTK module, with its **built-in** (passive) **antenna patch**, is able to
 
 #### Features:
 * 1 Micro USB port
-* 2 JST-GH 6 pins connectors
+* 2 JST-GH 6pin connectors
 * 7 through-hole connectors
 * 1 UART, 1 I2C
 * LIS3MDL magnetometer
@@ -63,8 +63,6 @@ The XL RTK module, with its **built-in** (passive) **antenna patch**, is able to
 [Product page available here](https://store.drotek.com/gps/881-xl-rtk-gps-neo-m8p-rover-8944595120625.html).
 
 -----
-
-
 ### Sirius RTK GNSS Base (M8P)
 
 <p align="center">
@@ -74,11 +72,15 @@ The XL RTK module, with its **built-in** (passive) **antenna patch**, is able to
 The XXL RTK module is made to provide the most reliable base module possible. Featuring a **Tallysman TW3742 active antenna**, it is the best module to provide your system with an accurate and powerful base module. It has integrated **rechargeable batteries** so it can be used as stand alone module without an external power supply, and a built-in jack connector to recharge these batteries. Meant to be used as a base module, it can be easily put onto a **tripod** thanks to it's **threaded hole** underneath the case, in order to raise it up, have a stable base and allow clean transportation on the field.
 
 #### Features:
-
-* 1 MicroUSB connector
-* 1 JST-GH 6 pin connector
+* 1 Micro USB port
+* 1 JST-GH 6pin connector
 * 1 Jack connector
 * 1 active [Tallysman TW3740](http://www.tallysman.com/index.php/gnss/products/antennas-gpsbeidougalileoglonass/tw3740-tw3742/) antenna
+* Threaded hole size: 1/4" / 20 mm
+* Power supply: USB or batteries or Jack connector (12v)
+* Batteries charging: Jack connector 
+* Size (Lxlxh): 106 x 106 x 85±2 mm
+* Weight: 363g
 
 [Product page available here](https://store.drotek.com/gps/887-xxl-rtk-gps-neo-m8p-2-8944595119797.html).
 
@@ -94,9 +96,12 @@ The Sirius RTK module is built to provide a reliable rover module for your vehic
 **The unicity of this connector makes it impossible for this module to be used as a base module.**
 
 #### Features:
-
-* 1 JST-GH 6 pins connector
+* 1 JST-GH 6pin connector
+* 1 UART, 1 I2C
 * 1 active antenna
+* LIS3MDL magnetometer
+* Size (Øxh): 60 x 16 mm
+* Weight: 42g
 
 [Product page available here](https://store.drotek.com/gps/864-sirius-rtk-gps-8944595120564.html).
 
