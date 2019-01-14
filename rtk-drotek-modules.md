@@ -6,7 +6,7 @@ In this section, you will find information on the Ublox M8P and F9P chip feature
 
 
 <p align="center">
-  <img src="./images/drotek.jpg?raw=true" alt="Drotek Logo"/>
+  <img src="./images/drotek sans electronics.png?raw=true" alt="Drotek Logo"/>
 </p>
 
 
