@@ -5,7 +5,7 @@
 * [RTK Drotek Modules](rtk-drotek-modules.md)
   * [Chips features](rtkmodules/neom8p.md)
   * [Drotek modules introduction](rtkmodules/dromodules.md)
-  * [Modules specifications and wiring](rtkmodules/specs.md)
+  * [Pinouts](rtkmodules/specs.md)
   * [Simplified schematics](rtkmodules/schematics.md)
   * [Modules overview](rtkmodules/overview.md)
   * [3DR Solo RTK module](rtkmodules/solo.md)

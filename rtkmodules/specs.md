@@ -1,9 +1,6 @@
-##Modules mechanical specifications and wiring
+## Pinouts
 
-###XL RTK GNSS (F9P)
-Specs:
-* Size (_Lxlxh_) : 50 x 50 x 13 mm
-* Weight : 18 g.
+### XL RTK GNSS (F9P)
 
 <p align="center">
   <img src="./images/xxx.png?raw=true" alt="Wiring XL ZED-F9P"/>
@@ -35,12 +32,7 @@ Specs:
 
 
 -----
-###Tiny RTK GNSS (M8P)
-Specs:
-* Size (_Lxlxh_) : 23.5 x 32 x 9.5 mm.
-* Weight : 3 g.
-
-#### _Wiring_
+### Tiny RTK GNSS (M8P)
 
 <p align="center">
   <img src="./images/tinyw.png?raw=true" alt="Wiring tiny"/>
@@ -62,14 +54,8 @@ Specs:
 | B5      | RX                   |
 | B6      | 5V IN                |
 
-
 -----
-
-
 ###XL RTK GNSS (M8P)
-Specs:
-* Size (_Lxlxh_) : 50 x 50 x 10 mm
-* Weight : 23 g.
 
 <p align="center">
   <img src="./images/xlw.png?raw=true" alt="Wiring XL"/>
@@ -99,18 +85,8 @@ Specs:
 | C6      | GROUND               |
 | C7      | 5V IN                |
 
-
 -----
-
-
-###Sirius RTK GNSS Base (M8P)
-Specs:
-* Size (_Lxlxh_) : 106 x 106 x 85±2 mm
-* Weight : 363 g.
-* Threaded hole size : 1/4" / 20 mm
-* Jack connector : **12V**
-* Power supply : **USB** or **batteries** or **Jack connector**
-* Batteries charging : Jack connector **only**
+### Sirius RTK GNSS Base (M8P)
 
 <p align="center">
   <img src="./images/basew.png?raw=true" alt="Wiring XXL"/>
@@ -125,14 +101,8 @@ Specs:
 | A5      | RX                   |
 | A6      | 5V OUT               |
 
-
 -----
-
-
-###Sirius RTK GNSS Rover (M8P)
-Specs:
-* Size (_Øxh_) : 60 x 16 mm
-* Weight : 42 g.
+### Sirius RTK GNSS Rover (M8P)
 
 <p align="center">
   <img src="./images/siriusw.png?raw=true" alt="Wiring Sirius"/>
