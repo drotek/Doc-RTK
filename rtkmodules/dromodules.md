@@ -1,4 +1,4 @@
-## Drotek's RTK modules
+## Modules features
 
 Drotek sells several different RTK modules that each have their own characteristics. Depending on the use-case and the general context of the application, different modules should be picked in order to achieve the most efficient build.
 

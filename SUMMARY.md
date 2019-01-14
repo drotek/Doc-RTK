@@ -4,7 +4,7 @@
 * [What is RTK?](whatsrtk.md)
 * [RTK Drotek Modules](rtk-drotek-modules.md)
   * [Chips features](rtkmodules/neom8p.md)
-  * [Drotek modules introduction](rtkmodules/dromodules.md)
+  * [Modules features](rtkmodules/dromodules.md)
   * [Pinouts](rtkmodules/specs.md)
   * [Simplified schematics](rtkmodules/schematics.md)
   * [Modules overview](rtkmodules/overview.md)
