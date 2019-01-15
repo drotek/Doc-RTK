@@ -10,7 +10,7 @@ In this book, you will find what RTK stands for, what is possible with it, what 
 
 **Drotek **has been an official **partner **of **u-blox** for many years.  We develop a lot of smart GNSS modules with only **genuine **chips from them. You can learn more about us on  [this site](https://www.u-blox.com/en/product/drotek-gpsgnss-antennas#tab-product-description).
 <p align="center">
-  <img src="./images/ublox.png?raw=true" alt="ublox site"/>
+  <img src="./images/ublox_site.jpg?raw=true" alt="ublox site"/>
 </p>
 
 
