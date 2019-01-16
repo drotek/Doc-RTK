@@ -51,11 +51,6 @@ In this menu, scroll down on the left panel to find the _MSG (Messages)_ menu. T
 
 
 
-<p align="center">
-  <img src="./images/conf/22.png?raw=true" alt="Conf picture"/>
-</p>
-
-
 
 You must repeat these steps for the _RTCM1077_, _RTCM1087_ and _RTCM1127_ messages (respectively GPS, GLONASS and BEIDOU raw data) without omitting to hit the _Send_ button each time, or your changes won't be applied. Checking both UART1 and USB checkboxes will allow the chip to send the messages either from USB or UART1, depending on your system setup.
 
@@ -67,6 +62,11 @@ Next, move to the _TMODE3 (Time Mode 3)_ section on the left panel. You will be 
 
 <p align="center">
   <img src="./images/conf/cfgs.png?raw=true" alt="Conf picture"/>
+</p>
+
+
+<p align="center">
+  <img src="./images/conf/22.png?raw=true" alt="Conf picture"/>
 </p>
 
 
