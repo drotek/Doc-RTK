@@ -3,7 +3,7 @@
 ### XL RTK GNSS (F9P)
 
 <p align="center">
-  <img src="./images/xxx.png?raw=true" alt="Wiring XL ZED-F9P"/>
+  <img src="./images/XL_F9_A.jpg?raw=true" alt="Wiring XL ZED-F9P"/>
 </p>
 
 | Wire N° | Corresponding pinout |
