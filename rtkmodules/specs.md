@@ -3,32 +3,37 @@
 ### XL RTK GNSS (F9P)
 
 <p align="center">
-  <img src="./images/XL_F9_A.jpg?raw=true" alt="Wiring XL ZED-F9P"/>
+  <img src="./images/XL_F9_A.jpg?raw=true" alt="pinouts XL ZED-F9P drotek"/>
 </p>
 
 | Wire N° | Corresponding pinout |
 |---------|----------------------|
-| A1      | 5V OUT               |
-| A2      | TX                   |
-| A3      | RX TEL               |
-| A4      | _**NC**_             |
-| A5      | _**NC**_             |
+| A1      | 5V IN                |
+| A2      | SPI MOSI             |
+| A3      | SPI MISO             |
+| A4      | SPI CLK              |
+| A5      | SPI CS               |
 | A6      | GROUND               |
-|         |                      |
-| B1      | 5V IN                |
-| B2      | RX ROV               |
-| B3      | TX                   |
-| B4      | SCL                  |
-| B5      | SDA                  |
+
+<p align="center">
+  <img src="./images/XL_F9_BC.jpg?raw=true" alt="pinouts XL F9P ublox"/>
+</p>
+
+| Wire N° | Corresponding pinout |
+|---------|----------------------|
+| B1      | 5V SPI               |
+| B2      | I2C SCL              |
+| B3      | HOST TX              |
+| B4      | HOST RX              |
+| B5      | I2C SDA              |
 | B6      | GROUND               |
 |         |                      |
-| C1      | EXT INT              |
-| C2      | TX                   |
-| C3      | RX                   |
-| C4      | SCL                  |
-| C5      | SDA                  |
+| C1      | 5V IN                |
+| C2      | RTCM3 RX             |
+| C3      | RTCM3 TX             |
+| C4      | RTK STAT             |
+| C5      | GEOFENCE STAT        |
 | C6      | GROUND               |
-| C7      | 5V IN                |
 
 
 -----
