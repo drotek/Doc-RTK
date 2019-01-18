@@ -3,7 +3,7 @@
 ### XL RTK GNSS (F9P)
 
 <p align="center">
-  <img src="./images/XL_F9_A.jpg?raw=true" alt="pinouts XL ZED-F9P drotek"/>
+  <img src="./images/XL_F9_A.png?raw=true" alt="pinouts XL ZED-F9P drotek"/>
 </p>
 
 | Wire N° | Corresponding pinout |
@@ -16,7 +16,7 @@
 | A6      | GROUND               |
 
 <p align="center">
-  <img src="./images/XL_F9_BC.jpg?raw=true" alt="pinouts XL F9P ublox"/>
+  <img src="./images/XL_F9_BC.png?raw=true" alt="pinouts XL F9P ublox"/>
 </p>
 
 | Wire N° | Corresponding pinout |
