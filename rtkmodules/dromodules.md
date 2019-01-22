@@ -65,9 +65,7 @@ The XL RTK module, with its **built-in** (passive) **antenna patch**, is able to
 -----
 ### Sirius RTK GNSS Base (M8P)
 
-<p align="center">
-  <img src="./images/xxl3D.png?raw=true" alt="XXL RTK 3D"/>
-</p>
+![](https://github.com/drotek/Doc-RTK/blob/master/images/xxl-rtk-gps-base-drotek.png?raw=true)
 
 The XXL RTK module is made to provide the most reliable base module possible. Featuring a **Tallysman TW3742 active antenna**, it is the best module to provide your system with an accurate and powerful base module. It has integrated **rechargeable batteries** so it can be used as stand alone module without an external power supply, and a built-in jack connector to recharge these batteries. Meant to be used as a base module, it can be easily put onto a **tripod** thanks to it's **threaded hole** underneath the case, in order to raise it up, have a stable base and allow clean transportation on the field.
 
