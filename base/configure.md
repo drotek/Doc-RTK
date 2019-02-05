@@ -36,11 +36,15 @@ In **Survey-in mode**, your base will determine its position by itself. You will
 
 After setting up these values, you can get to the _SVIN_ menu to check the informations gathered by the base, as its position, time, surveying time, and other useful data. To do so, open the Messages view from the top hotbar, and scroll down to the \_NAV \(Navigation\)\_section, then look for the SVIN message.
 
+![](../.gitbook/assets/svin.png)
+
+![](../.gitbook/assets/svinm.png)
+
 In **Fixed mode**, the surveying is not done, and you have to enter the position of the base yourself, whether it be in _ECEF_ or _Lat/Lon/Alt_ format. Keep in mind that having the most accurate positioning for your base will provide best results in order to compute the position of the rover module.
 
-![Conf picture](https://github.com/drotek/Doc-RTK/tree/31418126aca03a0c689cd72f9af589b41e38f72a/base/images/conf/5.png?raw=true)
+![](../.gitbook/assets/5.png)
 
 At this point, your base is almost set up. You have to encapsulate raw data in your telemetry link then. This will only require you to have your base and control station \(computer\) connected through USB. To set this up, you will first need to save the whole configuration you've done, by getting into the _CFG \(Configuration\)_ menu on the left panel, selecting all four memories on the right, and clicking _Send_.
 
-![Conf picture](https://github.com/drotek/Doc-RTK/tree/31418126aca03a0c689cd72f9af589b41e38f72a/base/images/conf/a1.png?raw=true)
+![](../.gitbook/assets/a1.png)
 
