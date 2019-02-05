@@ -1,7 +1,5 @@
 # Frequently Asked Questions
 
-![Drone Drotek](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/images/drok.png?raw=true)
-
 * **Is it absolutely necessary to have two boards, one rover and one base?**
 
 The RTK technology requires a stationnary receiver to allow exact calculation of the rover module. To achive this, you need **two receivers**, one to act as the base module, and another as the rover module, **whatever the use-case is**.
