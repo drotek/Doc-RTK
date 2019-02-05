@@ -36,13 +36,13 @@ In order to configure the base, you need:
 
 First, connect your base module to the computer with Mission Planner installed. Open the software, and click the _Initial Setup_ button on the top hotbar. In the left panel, click the _Optional Hardware_ section, and open the _RTK/GPS Inject_ menu.
 
-![MP RTK settings](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/base/images/mp1.png?raw=true)
+![](../.gitbook/assets/mp1.png)
 
 You have reached the RTK configuration page. Begin with connecting to your base module, by selecting the COM port corresponding to it, and clicking _Connect_. You won't need to change the baudrate as the connection is using USB protocol, but if necessary, enter 57600.
 
 Once connected, you'll be provided with informations on the behavior of your base module. After checking the _M8P Autoconfig_ box, you will need to use the survey-in method in order to obtain a location for your base. You can set the necessary accuracy and minimum survey-in time in order to get a position for your base. After setting your own parameters, you can click _Restart_ to operate a new survey-in that will store it's obtained position in the list beneath the parameters box.
 
-![MP RTK settings](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/base/images/mp2.png?raw=true)
+![](../.gitbook/assets/mp2.png)
 
 Mission Planner allows the user to store and use previous locations for your base setup. You will find all useful informations on [this](http://ardupilot.org/copter/docs/common-here-plus-gps.html?highlight=rtk#base-module-setting-using-mission-planner) page.
 
