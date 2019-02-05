@@ -2,6 +2,8 @@
 
 ## ZED-F9P chip
 
+![](../.gitbook/assets/zed-f9p-drotek-doc.png)
+
 ### Highlights:
 
 * **Multi-band** receiver delivers centimeter-level accuracy in seconds.
@@ -10,8 +12,6 @@
 * **High update rate** for highly dynamic applications.
 * Centimeter accuracy in a small and energy-efficient module.
 * Easy integration of RTK for fast time-to-market.
-
-![M8P Ublox chip](https://github.com/drotek/Doc-RTK/tree/f5370b91be132d752bd897e403b250fe4b0ce3d9/rtkmodules/images/f8pchip.png?raw=true)
 
 ### Features:
 
@@ -24,14 +24,14 @@
 
 ## NEO-M8P chip
 
+![](../.gitbook/assets/gps-sirius-drotek-doc.png)
+
 ### Highlights:
 
 * **Centimeter‑level** GNSS positioning for the mass market.
 * Integrated Real Time Kinematics \(RTK\) for fast time‑to‑market.
 * Complete and versatile solution due to base and rover possibility.
 * World‑leading GNSS positioning technology.
-
-![M8P Ublox chip](https://github.com/drotek/Doc-RTK/tree/f5370b91be132d752bd897e403b250fe4b0ce3d9/rtkmodules/images/m8pchip.png?raw=true)
 
 ### Features:
 
