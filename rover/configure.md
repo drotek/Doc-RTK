@@ -14,11 +14,11 @@ In order to configure the rover, you need:
 
 First of all, install the UCenter software on your computer. When done, you can connect your rover module to your computer. Open the UCenter software after that, and connect it to your rover module module using the button in the upper-left corner.
 
-![Conf picture](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/rover/images/conf/a.png?raw=true)
+![](../.gitbook/assets/a.png)
 
 After connecting, you should be able to enter the Configuration view from the top hotbar.
 
-![Conf picture](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/rover/images/conf/b.png?raw=true)
+![](../.gitbook/assets/b.png)
 
 _Note : After any modification made in the Configuration panel, always remember to hit the Send button at the bottom of the configuration view panel, or your modifications won't be stored!_
 
