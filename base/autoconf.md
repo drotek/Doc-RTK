@@ -36,7 +36,7 @@ In order to configure the base, you need:
 
 First, connect your base module to the computer with Mission Planner installed. Open the software, and click the _Initial Setup_ button on the top hotbar. In the left panel, click the _Optional Hardware_ section, and open the _RTK/GPS Inject_ menu.
 
-![](../.gitbook/assets/mp1.png)
+![](../.gitbook/assets/mp1%20%281%29.png)
 
 You have reached the RTK configuration page. Begin with connecting to your base module, by selecting the COM port corresponding to it, and clicking _Connect_. You won't need to change the baudrate as the connection is using USB protocol, but if necessary, enter 57600.
 
