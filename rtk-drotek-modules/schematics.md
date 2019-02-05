@@ -2,9 +2,9 @@
 
 ## Tiny RTK GNSS \(M8P\)
 
-![Wiring tiny](https://github.com/drotek/Doc-RTK/tree/2eb8da74164f7524546095da715e89df7baede99/rtkmodules/images/schemaTiny1.png?raw=true)
+![](../.gitbook/assets/schematiny1.png)
 
-![Wiring tiny](https://github.com/drotek/Doc-RTK/tree/2eb8da74164f7524546095da715e89df7baede99/rtkmodules/images/schemaTiny2.png?raw=true)
+![](../.gitbook/assets/schematiny2.png)
 
 ## XL RTK GNSS \(M8P\)
 
@@ -13,9 +13,9 @@ Switch position :
 * _Base_ use-case : **TELEM**
 * _Rover_ use-case : **ROVER**
 
-![Wiring XL](https://github.com/drotek/Doc-RTK/tree/2eb8da74164f7524546095da715e89df7baede99/rtkmodules/images/schemaXL1.png?raw=true)
+![](../.gitbook/assets/wiring-xl-telem-ps.png)
 
-![Wiring XL](https://github.com/drotek/Doc-RTK/tree/2eb8da74164f7524546095da715e89df7baede99/rtkmodules/images/schemaXL2.png?raw=true)
+![](../.gitbook/assets/schemaxl2.png)
 
 ## Sirius RTK GNSS Base \(M8P\)
 
