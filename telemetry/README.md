@@ -6,5 +6,5 @@ It is possible to use many systems for this role, but in this book, I will only 
 
 Keep in mind that most systems that have a UART port are capable of being used for RTK communication.
 
-![Telemetry ico](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/images/icotelem.png?raw=true)
+![](../.gitbook/assets/icotelem.png)
 
