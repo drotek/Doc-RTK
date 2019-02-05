@@ -11,47 +11,47 @@ _Note: This installation process can be applied for the M8N and M8T version of t
 
 Before doing anything, take off the propellers and battery from the drone.
 
-![RTK Solo installation](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/soloconf/images/in1.jpg?raw=true)
+![](../.gitbook/assets/in1.jpg)
 
 Slightly pull the side locks out from the case using the flat screwdriver in the lower corner the same way as in the picture below.
 
-![RTK Solo installation](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/soloconf/images/in2.jpg?raw=true)
+![](../.gitbook/assets/in2.jpg)
 
 Do the same with the upper locks using the flat screwdriver to unlock and pull out the GPS top case.
 
-![RTK Solo installation](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/soloconf/images/in3.jpg?raw=true)
+![](../.gitbook/assets/in3.jpg)
 
 Next, use the crossheaded screwdriver to take off the 7 screws of the top block.
 
-![RTK Solo installation](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/soloconf/images/in4.jpg?raw=true)
+![](../.gitbook/assets/in4.jpg)
 
 Then slightly lift the block up to allow unplugging the GPS board that's inside the block.
 
-![RTK Solo installation](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/soloconf/images/in5.jpg?raw=true)
+![](../.gitbook/assets/in5.jpg)
 
 Unplug the Clik-mate connector carefully from beneath the block.
 
-![RTK Solo installation](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/soloconf/images/in6.jpg?raw=true)
+![](../.gitbook/assets/in6.jpg)
 
 You can now use the cross-headed screwdriver to free the GPS boards drom the case. You should be able to take it out of after that.
 
-![RTK Solo installation](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/soloconf/images/in7.jpg?raw=true)
+![](../.gitbook/assets/in7.jpg)
 
 Now, place the Drotek Solo RTK module into the case, the antenna patch facing the upper side of the block \(the antenna patch need to be facing the sky for a correct communication\). When it's in place, you can screw it into the block again.
 
-![RTK Solo installation](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/soloconf/images/in8.jpg?raw=true)
+![](../.gitbook/assets/in8.jpg)
 
 After locking the board with the screws, plug the Clik-mate connector back into the Drotek Solo RTK board.
 
-![RTK Solo installation](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/soloconf/images/in9.jpg?raw=true)
+![](../.gitbook/assets/in9.jpg)
 
 Then, after placing the block into the drone and screwing back the seven screws for the block.
 
-![RTK Solo installation](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/soloconf/images/in4.jpg?raw=true)
+![](../.gitbook/assets/in4.jpg)
 
 After putting the block back in place, you can put the GPS top case back onto the drone, by sliding it from the front of the drone, applying slight pressure to push it and lock it well.
 
-![RTK Solo installation](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/soloconf/images/in10.jpg?raw=true)
+![](../.gitbook/assets/in10.jpg)
 
 You can then install your battery and propellers back onto the drone before getting to the next step.
 
