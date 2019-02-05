@@ -4,11 +4,11 @@
 
 During the year 2016, Drotek developed a replacement board for the 3DR Solo's GNSS receiver. Available with the M8N chip \(non-RTK precision U-blox chip\) and the M8P \(RTK capacity\) chip, it can be used easily in order to bring RTK accuracy to your 3DR Solo drone!
 
-![](../.gitbook/assets/solo-logo.jpg)
+![](../.gitbook/assets/logo-solo.png)
 
 As it is specifically designed for the 3DR Solo drone, you will find a specific section in this book concerning this RTK module, what is necessary to configure it, how to install the board replacing the original GNSS receiver located inside the drone, and how to upgrade the firmware of the drone to allow RTK usage. You will find below the specifications of the 3DR Solo RTK module and it's wiring.
 
-![](../.gitbook/assets/solo3d.png)
+![](../.gitbook/assets/3dr-solo-rtk.png)
 
 ### _Input / Outputs_
 
