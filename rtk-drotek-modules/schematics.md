@@ -19,9 +19,9 @@ Switch position :
 
 ## Sirius RTK GNSS Base \(M8P\)
 
-![Wiring Base](https://github.com/drotek/Doc-RTK/tree/2eb8da74164f7524546095da715e89df7baede99/rtkmodules/images/schemaBase.png?raw=true)
+![](../.gitbook/assets/wiring-base.png)
 
 ## Sirius RTK GNSS Rover \(M8P\)
 
-![Wiring Sirius](https://github.com/drotek/Doc-RTK/tree/2eb8da74164f7524546095da715e89df7baede99/rtkmodules/images/schemasirius.png?raw=true)
+![](../.gitbook/assets/wiring-sirius%20%281%29.png)
 
