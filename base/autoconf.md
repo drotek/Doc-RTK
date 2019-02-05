@@ -16,13 +16,13 @@ Begin with plugging your base module through USB to the computer with QGroundCon
 
 The software will initiate the **Survey-in** procedure with default parameters. You should see the monitoring box next to the top hotbar, giving details on the **surveying time**, **current accuracy** and **satellites** the base is connected with.
 
-![QG Survey dialog box](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/base/images/qgsvin.png?raw=true)
+![](../.gitbook/assets/qgsvin.png)
 
 You can set the values for the surveying time and a minimum accuracy in the general settings menu of the QGroundControl software, it's button located on the top left corner of the main window.
 
-![QG General settings button](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/base/images/qgbutton.png?raw=true)
+![](../.gitbook/assets/qgbutton.png)
 
-![QG RTK settings](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/base/images/qgset.jpg?raw=true)
+![](../.gitbook/assets/qgset.jpg)
 
 Once the survey-in procedure is complete, the satellites icon in the top hotbar will turn white, and the base module will start sending data to the rover module \(if it is set up\) through the telemetry link. The RTK will be active and ready to use as soon as the rover module will have been set up!
 
