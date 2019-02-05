@@ -2,7 +2,7 @@
 
 ## XL RTK GNSS \(F9P\)
 
-![pinouts XL ZED-F9P drotek](https://github.com/drotek/Doc-RTK/tree/7e52435a9ea5c8ffe6e74cb29dcbae341870420f/rtkmodules/images/XL_F9_A.png?raw=true)
+![](../.gitbook/assets/pinouts-xl-zed-f9p-drotek.png)
 
 | Wire N° | Corresponding pinout |
 | :--- | :--- |
@@ -13,7 +13,7 @@
 | A5 | SPI CS |
 | A6 | GROUND |
 
-![pinouts XL F9P ublox](https://github.com/drotek/Doc-RTK/tree/7e52435a9ea5c8ffe6e74cb29dcbae341870420f/rtkmodules/images/XL_F9_BC.png?raw=true)
+![](../.gitbook/assets/pinouts-xl-f9p-ublox.png)
 
 | Wire N° | Corresponding pinout |
 | :--- | :--- |
@@ -33,7 +33,7 @@
 
 ## Tiny RTK GNSS \(M8P\)
 
-![Wiring tiny](https://github.com/drotek/Doc-RTK/tree/7e52435a9ea5c8ffe6e74cb29dcbae341870420f/rtkmodules/images/tinyw.png?raw=true)
+![](../.gitbook/assets/wiring-tiny-m8p.png)
 
 | Wire N° | Corresponding pinout |
 | :--- | :--- |
@@ -53,7 +53,7 @@
 
 ## XL RTK GNSS \(M8P\)
 
-![Wiring XL](https://github.com/drotek/Doc-RTK/tree/7e52435a9ea5c8ffe6e74cb29dcbae341870420f/rtkmodules/images/xlw.png?raw=true)
+![](../.gitbook/assets/wiring-xl.png)
 
 | Wire N° | Corresponding pinout |
 | :--- | :--- |
@@ -81,7 +81,7 @@
 
 ## Sirius RTK GNSS Base \(M8P\)
 
-![Wiring XXL](https://github.com/drotek/Doc-RTK/tree/7e52435a9ea5c8ffe6e74cb29dcbae341870420f/rtkmodules/images/basew.png?raw=true)
+![](../.gitbook/assets/wiring-xxl-base-drotek.png)
 
 | Wire N° | Corresponding pinout |
 | :--- | :--- |
@@ -94,7 +94,7 @@
 
 ## Sirius RTK GNSS Rover \(M8P\)
 
-![Wiring Sirius](https://github.com/drotek/Doc-RTK/tree/7e52435a9ea5c8ffe6e74cb29dcbae341870420f/rtkmodules/images/siriusw.png?raw=true)
+![](../.gitbook/assets/wiring-sirius.png)
 
 | Wire N° | Corresponding pinout |
 | :--- | :--- |
