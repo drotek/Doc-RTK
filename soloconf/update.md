@@ -2,13 +2,13 @@
 
 For the 3DR Solo drone to be compatible with RTK messages, you need to install a specific firmware. To download this firmware, you can follow [this link](https://github.com/drotek/ardupilot-solo/releases/download/solo-1.5.3/ArduCopter-v2.px4) to download the Drotek-made firmware to install onto your drone.
 
-![Update screenshot](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/soloconf/images/up1.png?raw=true)
+![](../.gitbook/assets/up1.png)
 
 To update the 3DR Solo firmware, you'll need to install the WinSCP software \(you can find it [here](https://winscp.net/eng/docs/lang:en) in order to connect to your Drone using the SCP protocol.
 
 Before starting the software, make sure to turn your drone and its controller on.
 
-![Update screenshot](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/soloconf/images/up2.png?raw=true)
+![](../.gitbook/assets/up2.png)
 
 With the software open, to connect to the Solo drone, use these informations:
 
