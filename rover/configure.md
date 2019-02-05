@@ -24,17 +24,17 @@ _Note : After any modification made in the Configuration panel, always remember 
 
 In the Configuration panel, scroll down to the _PRT \(Port\)_  section. Here, you need to enter **your autopilot's GPS port's baudrate** to allow it to communicate correctly. It is necessary, as the link between your GPS and the telemetry is purely serial, and there's no other protocol to stipulate a baudrate.
 
-![Conf picture](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/rover/images/conf/1.png?raw=true)
+![](../.gitbook/assets/1%20%281%29.png)
 
 It is also necessary to modify the frequency of the chip. To do this, on the left panel, look for the _RATE \(Rates\)_ menu and modify the _Measurement period_ to 200 ms.
 
 _Don't forget to click Send!_
 
-![Conf picture](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/rover/images/conf/2.png?raw=true)
+![](../.gitbook/assets/2.png)
 
 Next, get into the _MSG \(Messages\)_ menu and disable all NMEA messages.
 
-![Conf picture](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/rover/images/conf/3.png?raw=true)
+![](../.gitbook/assets/3.png)
 
 After disabling the NMEA messages, you should also enable the following messages for the UART1 link:
 

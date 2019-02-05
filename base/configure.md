@@ -16,13 +16,13 @@ First of all, install the UCenter software on your computer. When done, you can 
 
 After connecting, you should be able to enter the Configuration view from the top hotbar.
 
-![](../.gitbook/assets/2.png)
+![](../.gitbook/assets/2%20%281%29.png)
 
 _Note : After any modification made in the Configuration panel, always remember to hit the Send button at the bottom of the configuration view panel, or your modifications won't be stored!_
 
 In this menu, scroll down on the left panel to find the _MSG \(Messages\)_ menu. There, open the slide down menu and pick the RTCM1005 messages. After that, check both UART1 and USB checkboxes and click on the _Send_ button.
 
-![](../.gitbook/assets/3.png)
+![](../.gitbook/assets/3%20%281%29.png)
 
 You must repeat these steps for the _RTCM1077_, _RTCM1087_ and _RTCM1127_ messages \(respectively GPS, GLONASS and BEIDOU raw data\) without omitting to hit the _Send_ button each time, or your changes won't be applied. Checking both UART1 and USB checkboxes will allow the chip to send the messages either from USB or UART1, depending on your system setup.
 
