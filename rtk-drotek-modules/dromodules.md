@@ -4,7 +4,7 @@ Drotek sells several different RTK modules that each have their own characterist
 
 ## XL RTK GNSS \(F9P\)
 
-![XL ZED-F9P 3D](https://github.com/drotek/Doc-RTK/tree/38bb3441977ba5f1637160b67ed9ac6ede329158/rtkmodules/images/F9-min.png?raw=true)
+![](../.gitbook/assets/zed-f9p-drotek-doc.png)
 
 The XL RTK GNSS is the smallest Multi-band RTK module available. Able to act as a base or rover, this **lightweight** module \(approx. 18 grams\) is plug-&-play and will only require the user to plug an antenna to it, and a telemetry system to allow it to communicate with the second module _\(optional\)_. Its USB connector will allow you to configure it easily through the U-Center software.
 
@@ -17,11 +17,11 @@ The XL RTK GNSS is the smallest Multi-band RTK module available. Able to act as 
 * Size \(Lxlxh\): 50 x 50 x 13 mm
 * Weight: 18g
 
-[Product page available here](https://store.drotek.com/gps/891-rtk-zed-f9p-gps-8944595424662.html).
+[Discover the product here](https://store.drotek.com/gps/891-rtk-zed-f9p-gps-8944595424662.html).
 
 ## Tiny RTK GNSS \(M8P\)
 
-![Tiny 3D](https://github.com/drotek/Doc-RTK/tree/38bb3441977ba5f1637160b67ed9ac6ede329158/rtkmodules/images/tiny3D.png?raw=true)
+![](../.gitbook/assets/tiny-rtk-doc-drotek.png)
 
 The Tiny RTK GNSS is the smallest RTK module available. Able to act as a base or rover, this **lightweight** module \(approx. 5 grams\) is plug-&-play and will only require the user to plug an antenna to it, and a telemetry system to allow it to communicate with the second module _\(optional\)_. An External Interruption pin is available so users can use the module very efficiently in order to have accurate **timestamping**. It's USB connector will allow you to configure it easily through the U-Center software.
 
@@ -35,11 +35,11 @@ The Tiny RTK GNSS is the smallest RTK module available. Able to act as a base or
 * Size \(Lxlxh\): 23.5 x 32 x 9.5 mm
 * Weight: 3g
 
-[Product page available here](https://store.drotek.com/gps/794-636-tiny-rtk-gps-neo-m8p-2-8944595119827.html#/105-case-without/116-antenna-without).
+[Shop the product here](https://store.drotek.com/gps/794-636-tiny-rtk-gps-neo-m8p-2-8944595119827.html#/105-case-without/116-antenna-without).
 
 ## XL RTK GNSS \(M8P\)
 
-![XL RTK 3D](https://github.com/drotek/Doc-RTK/tree/38bb3441977ba5f1637160b67ed9ac6ede329158/rtkmodules/images/xl3D.png?raw=true)
+![](../.gitbook/assets/xl-rtk-gps-doc-drotek.png)
 
 The XL RTK module, with its **built-in** \(passive\) **antenna patch**, is able to act as a rover or base, even though the base mode is not recommended because of the size of the antenna patch. You can select the role of your module very easily with a switch built onto the board. Plug-&-play, this module only requires the user to plug the telemetry equipment in order to be used. It's USB connector will allow you to configure it easily through the U-Center software. Also, the **integrated compass** will offer your vehicle a more accurate positioning and make your heading sensing more efficient \(with the module being used as rover on your vehicle\). It's **I2C port** will also allow you to add various I2C compatible devices to your system. The board has 7 through-hole connectors where you can solder pin header, which make the module very modular.
 
@@ -53,7 +53,7 @@ The XL RTK module, with its **built-in** \(passive\) **antenna patch**, is able 
 * Size \(Lxlxh\): 50 x 50 x 10 mm
 * Weight: 23g
 
-[Product page available here](https://store.drotek.com/gps/881-xl-rtk-gps-neo-m8p-rover-8944595120625.html).
+[Shop the product here](https://store.drotek.com/gps/881-xl-rtk-gps-neo-m8p-rover-8944595120625.html).
 
 ## Sirius RTK GNSS Base \(M8P\)
 
@@ -73,7 +73,7 @@ The XXL RTK module is made to provide the most reliable base module possible. Fe
 * Size \(Lxlxh\): 106 x 106 x 85±2 mm
 * Weight: 363g
 
-[Product page available here](https://store.drotek.com/gps/887-xxl-rtk-gps-neo-m8p-2-8944595119797.html).
+[Shop the product here](https://store.drotek.com/gps/887-xxl-rtk-gps-neo-m8p-2-8944595119797.html).
 
 ## Sirius RTK GNSS Rover \(M8P\)
 
@@ -92,5 +92,5 @@ The Sirius RTK module is built to provide a reliable rover module for your vehic
 * Size \(Øxh\): 60 x 16 mm
 * Weight: 42g
 
-[Product page available here](https://store.drotek.com/gps/864-sirius-rtk-gps-8944595120564.html).
+[Shop the product here](https://store.drotek.com/gps/864-sirius-rtk-gps-8944595120564.html).
 
