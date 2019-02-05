@@ -1,18 +1,18 @@
 # Configuring the rover manually
 
-You may want to configure the Ublox chip if you're using a dedicated telemetry link to connect your base and rover module, instead of encapsulationg it in the MAVLink protocol.
+You may want to configure the U-blox chip if you're using a dedicated telemetry link to connect your base and rover module, instead of encapsulationg it in the MAVLink protocol.
 
-You can use the Ucenter software in order to configure precisely the behavior of the M8P chip so that it will achieve exactly what you want.
+You can use the U-center software in order to configure precisely the behavior of the M8P chip so that it will achieve exactly what you want.
 
 In order to configure the rover, you need:
 
 * 1 Computer, used as ground control station
 * 1 Micro USB cable
-* **Latest** version of UCenter Software \(available [here](https://www.u-blox.com/en/product/u-center-windows)\)
+* **Latest** version of U-Center Software \(available [here](https://www.u-blox.com/en/product/u-center-windows)\)
 
-## Configuring the Ublox chip
+## Configuring the U-blox chip
 
-First of all, install the UCenter software on your computer. When done, you can connect your rover module to your computer. Open the UCenter software after that, and connect it to your rover module module using the button in the upper-left corner.
+First of all, install the U-Center software on your computer. When done, you can connect your rover module to your computer. Open the U-Center software after that, and connect it to your rover module module using the button in the upper-left corner.
 
 ![](../.gitbook/assets/a.png)
 
@@ -43,15 +43,15 @@ After disabling the NMEA messages, you should also enable the following messages
 * NAV-SOL
 * NAV-VELNED
 
-To do so, find each messages in the droplist and check the _UART1_ box for each of these messages, without omitting to ckick _Send_ for each message.
+To do so, find each messages in the droplist and check the _UART1_ box for each of these messages, without omitting to click _Send_ for each message.
 
-Modifiying the dynamic filter can also help. You can change it in the _NAV5 \(Navigation 5\)_ menu, using the first droplist at the top of the menu.
+Modifying the dynamic filter can also help. You can change it in the _NAV5 \(Navigation 5\)_ menu, using the first droplist at the top of the menu.
 
-![Conf picture](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/rover/images/conf/4.png?raw=true)
+![](../.gitbook/assets/4.png)
 
 After doing this tweak, all that is necessary is to save the whole configuration you've done, by getting into the _CFG \(Configuration\)_ menu on the left panel, selecting all four memories on the right, and clicking _Send_.
 
-![Conf picture](https://github.com/drotek/doc-rtk/tree/062dfb4b3ecf5849b83896a829bb557ce7362f88/rover/images/conf/5.png?raw=true)
+![](../.gitbook/assets/5%20%281%29.png)
 
 Now that the configuration is stored into the chip, you can disconnect your RTK module from the computer and plug it to your autopilot!
 
