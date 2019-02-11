@@ -16,9 +16,9 @@ Built to perform specifically with the **Pixhawk 3 PRO** autopilot, the **Sirius
 
 ### XL RTK
 
-The **XL RTK** module is the most effective choice for an application with an important **space-constraint**, a **limited power supply**, and that requires a **lightweight** module to fit the vehicle. It's built-in passive antenna patch will prevent the user from having to buy and install an external antenna, as well as **reducing** the **machine's weight** \(compared to external antennas\) to allow flight over a longer period of time. The well-thought design of the board also offers a very limited consumption in order to save energy, and the through-holes of the PCB will allow the user to install it very easily on any machine. It's **built-in compass** will also provide one more heading sensor for your machine to be as reliable as possible.
-
 ![](../.gitbook/assets/xl-rtk-gps-doc-drotek.png)
+
+The **XL RTK** module is the most effective choice for an application with an important **space-constraint**, a **limited power supply**, and that requires a **lightweight** module to fit the vehicle. It's built-in passive antenna patch will prevent the user from having to buy and install an external antenna, as well as **reducing** the **machine's weight** \(compared to external antennas\) to allow flight over a longer period of time. The well-thought design of the board also offers a very limited consumption in order to save energy, and the through-holes of the PCB will allow the user to install it very easily on any machine. It's **built-in compass** will also provide one more heading sensor for your machine to be as reliable as possible.
 
 ### Tiny RTK
 
