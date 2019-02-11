@@ -6,7 +6,7 @@
 
 | Wire N° | Corresponding pinout |
 | :--- | :--- |
-| A1 | 5V SPI |
+| A1 | 5V IN |
 | A2 | SPI MOSI |
 | A3 | SPI MISO |
 | A4 | SPI CLK |
@@ -17,7 +17,7 @@
 
 | Wire N° | Corresponding pinout |
 | :--- | :--- |
-| B1 | 5V IN |
+| B1 | 5V SPI |
 | B2 | I2C SCL |
 | B3 | HOST TX |
 | B4 | HOST RX |
