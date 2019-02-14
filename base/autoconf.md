@@ -2,7 +2,7 @@
 
 The RTK modules can easily be configured automatically using the QGroundControl or Mission Planner softwares, which will set up your module as you want without having to go deep into the configuration processes for the Ublox chip.
 
-## QGround Control
+## QGroundcontrol
 
 In order to configure the base, you need:
 
