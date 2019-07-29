@@ -12,11 +12,5 @@ Drotek's _433/915 MHz Telemetry kit_ can very easily be used with Drotek's RTK m
 
 [Product page with more informations](https://drotek.com/shop/fr/rf/795-kit-radio-telemetrie-433-915-mhz.html).
 
-### 500 mW Telemetry Kit
 
-![](../.gitbook/assets/telemetry-kit-500-drotek-documentation.png)
-
-Drotek also sells a _500 mW Telemetry kit_ that will offer a more powerful maximum output, which can provide improved range. It is not as plug-&-play as Drotek's homemade telemetry kit, but it is shipped with 6 pin JST to 1\*6 JWT female headers cables, which allow easy adaptivity.
-
-[Product page with more informations](https://drotek.com/shop/fr/home/642-kit-radio-telemetrie-433mhz-500mw.html).
 
